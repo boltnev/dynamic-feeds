@@ -10,7 +10,7 @@
 <category id="10" parentId="1">Мелкая техника для кухни</category>
 </categories>
 <offers>
-<offer id="0123450" available="true">
+<offer id="0" available="true">
 <name>Антивирус ESET NOD32 Platinum Edition</name>
 <vendor>Eset</vendor>
 <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
@@ -30,7 +30,7 @@
 <country_of_origin>Россия</country_of_origin>
 <age unit="year">18</age>
 </offer>
-<offer id="0123451" available="true">
+<offer id="1" available="true">
 <name>Антивирус ESET NOD32 Platinum Edition</name>
 <vendor>Eset</vendor>
 <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
@@ -50,7 +50,7 @@
 <country_of_origin>Россия</country_of_origin>
 <age unit="year">18</age>
 </offer>
-<offer id="0123452" available="true">
+<offer id="2" available="true">
 <name>Антивирус ESET NOD32 Platinum Edition</name>
 <vendor>Eset</vendor>
 <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
@@ -70,7 +70,7 @@
 <country_of_origin>Россия</country_of_origin>
 <age unit="year">18</age>
 </offer>
-<offer id="0123452" available="true">
+<offer id="3" available="true">
 <name>Антивирус ESET NOD32 Platinum Edition</name>
 <vendor>Eset</vendor>
 <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
@@ -90,7 +90,7 @@
 <country_of_origin>Россия</country_of_origin>
 <age unit="year">18</age>
 </offer>
-  <offer id="0123452" available="true">
+  <offer id="4" available="true">
 <name>Антивирус ESET NOD32 Platinum Edition</name>
 <vendor>Eset</vendor>
 <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
