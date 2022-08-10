@@ -11,9 +11,9 @@
 </categories>
 <offers>
 <offer id="0123450" available="true">
-<name>Антивирус ESET NOD32 Platinum Edition</name>
+<typePrefix>Антивирус</typePrefix>
 <vendor>Eset</vendor>
-<vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
+<model>NOD32-ENA-NS(BOX)-2-1</model>
 <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
 <url>http://www.mail.ru</url>
 <price>1620.00</price>
@@ -32,9 +32,9 @@
 <android_url>goldapple://https://goldapple.ru/11139-10023300001-vanilla-lime#sku%3D10023300001 </android_url>
 </offer>
 <offer id="0123451" available="true">
-<name>Антивирус ESET NOD32 Platinum Edition</name>
+<typePrefix>Антивирус</typePrefix>
 <vendor>Eset</vendor>
-<vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
+<model>NOD32-ENA-NS(BOX)-2-1</model>
 <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
 <url>http://www.mail.ru</url>
 <price>1620.00</price>
@@ -53,9 +53,9 @@
 <android_url>apple://https://goldapple.ru/11139-10023300001-vanilla-lime#sku%3D10023300001 </android_url>
 </offer>
 <offer id="0123452" available="true">
-<name>Антивирус ESET NOD32 Platinum Edition</name>
+<typePrefix>Антивирус</typePrefix>
 <vendor>Eset</vendor>
-<vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
+<model>NOD32-ENA-NS(BOX)-2-1</model>
 <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
 <url>http://www.mail.ru</url>
 <price>1620.00</price>
@@ -74,9 +74,9 @@
 <android_url>oldapple://https://goldapple.ru/11139-10023300001-vanilla-lime#sku%3D10023300001 </android_url>
 </offer>
 <offer id="0123453" available="true">
-<name>Антивирус ESET NOD32 Platinum Edition</name>
+<typePrefix>Антивирус</typePrefix>
 <vendor>Eset</vendor>
-<vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
+<model>NOD32-ENA-NS(BOX)-2-1</model>
 <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
 <url>http://www.mail.ru</url>
 <price>1620.00</price>
@@ -93,9 +93,9 @@
 <age unit="year">18</age>
 </offer>
 <offer id="0123454" available="true">
-<name>Антивирус ESET NOD32 Platinum Edition</name>
+<typePrefix>Антивирус</typePrefix>
 <vendor>Eset</vendor>
-<vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
+<model>NOD32-ENA-NS(BOX)-2-1</model>
 <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
 <url>http://www.mail.ru</url>
 <price>1620.00</price>
@@ -112,9 +112,9 @@
 <age unit="year">18</age>
 </offer>
 <offer id="0123455" available="true">
-<name>Антивирус ESET NOD32 Platinum Edition</name>
+<typePrefix>Антивирус</typePrefix>
 <vendor>Eset</vendor>
-<vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
+<model>NOD32-ENA-NS(BOX)-2-1</model>
 <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
 <url>http://www.mail.ru</url>
 <price>1620.00</price>
