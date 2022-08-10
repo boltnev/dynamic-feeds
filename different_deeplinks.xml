@@ -28,8 +28,8 @@
 <manufacturer_warranty>true</manufacturer_warranty>
 <country_of_origin>Россия</country_of_origin>
 <age unit="year">18</age>
-<ios_url>	gold://https://goldapple.ru/11139-10023300001-vanilla-lime#sku%3D10023300001 </ios_url>
-<android_url>goldapple://https://goldapple.ru/11139-10023300001-vanilla-lime#sku%3D10023300001 </android_url>
+<ios_url>	gold://https://goldapple.by/11139-10023300001-vanilla-lime#sku%3D10023300001 </ios_url>
+<android_url>goldapple://https://goldapple.kz/11139-10023300001-vanilla-lime#sku%3D10023300001 </android_url>
 </offer>
 <offer id="0123451" available="true">
 <typePrefix>Антивирус</typePrefix>
@@ -49,8 +49,8 @@
 <manufacturer_warranty>true</manufacturer_warranty>
 <country_of_origin>Россия</country_of_origin>
 <age unit="year">18</age>
-  <ios_url>	gold://https://goldapple.ru/11139-10023300001-vanilla-lime#sku%3D10023300001 </ios_url>
-<android_url>apple://https://goldapple.ru/11139-10023300001-vanilla-lime#sku%3D10023300001 </android_url>
+  <ios_url>	gold://https://goldapple.ua/11139-10023300001-vanilla-lime#sku%3D10023300001 </ios_url>
+<android_url>apple://https://goldapple.am/11139-10023300001-vanilla-lime#sku%3D10023300001 </android_url>
 </offer>
 <offer id="0123452" available="true">
 <typePrefix>Антивирус</typePrefix>
@@ -71,7 +71,7 @@
 <country_of_origin>Россия</country_of_origin>
 <age unit="year">18</age>
   <ios_url>	gold://https://goldapple.ru/11139-10023300001-vanilla-lime#sku%3D10023300001 </ios_url>
-<android_url>oldapple://https://goldapple.ru/11139-10023300001-vanilla-lime#sku%3D10023300001 </android_url>
+<android_url>oldapple://https://goldapple.cz/11139-10023300001-vanilla-lime#sku%3D10023300001 </android_url>
 </offer>
 <offer id="0123453" available="true">
 <typePrefix>Антивирус</typePrefix>
