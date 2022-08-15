@@ -18,10 +18,10 @@
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
             <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
-            <description>Антивирус</description>
-            <typePrefix>Кондиционер</typePrefix>
-            <vendor>Lg</vendor>
-            <model>Ls-H0561AL</model>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quam nisi, ultricies ac posuere sed, porttitor eget nisi. Sed gravida fermentum mi id tempus. Morbi volutpat, enim id pulvinar facilisis, metus augue rutrum dolor, ac hendrerit ligula velit eu orci. Pellentesque odio enim, pretium vitae dolor dictum, aliquet tincidunt lorem. </description>
+            <typePrefix>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quam nisi, ultricies ac posuere sed, porttitor eget nisi. Sed gravida fermentum mi id tempus. Morbi volutpat, enim id pulvinar facilisis, metus augue rutrum dolor, ac hendrerit ligula velit eu orci. Pellentesque odio enim, pretium vitae dolor dictum, aliquet tincidunt lorem. </typePrefix>
+            <vendor>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quam nisi, ultricies ac posuere sed, porttitor eget nisi. Sed gravida fermentum mi id tempus. Morbi volutpat, enim id pulvinar facilisis, metus augue rutrum dolor, ac hendrerit ligula velit eu orci. Pellentesque odio enim, pretium vitae dolor dictum, aliquet tincidunt lorem. </vendor>
+            <model>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quam nisi, ultricies ac posuere sed, porttitor eget nisi. Sed gravida fermentum mi id tempus. Morbi volutpat, enim id pulvinar facilisis, metus augue rutrum dolor, ac hendrerit ligula velit eu orci. Pellentesque odio enim, pretium vitae dolor dictum, aliquet tincidunt lorem. </model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
