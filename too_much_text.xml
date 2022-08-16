@@ -12,16 +12,16 @@
         <category id="2" parentId="1">Настенные кондиционеры</category>
     </categories>
     <offers>
-        <offer id="1" available="true">
+        <offer id="1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111" available="true">
             <url>https://www.example.com/cond/model-ls-h0561al</url>
             <price>10596</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
             <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
-            <description>Антивирус</description>
-            <typePrefix>Кондиционер</typePrefix>
-            <vendor>Lg</vendor>
-            <model>Ls-H0561AL</model>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et sapien sit amet enim dapibus hendrerit sed a diam. Phasellus eget dapibus arcu. Cras lacinia congue velit sit amet ultricies. Fusce pellentesque congue purus, consectetur cursus lacus posuere at. Integer augue magna, rhoncus et malesuada vitae, lacinia sit amet velit. Curabitur vel est non libero pharetra eleifend. Quisque fringilla at turpis quis fringilla. Praesent eu sapien odio.</description>
+            <typePrefix>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et sapien sit amet enim dapibus hendrerit sed a diam. Phasellus eget dapibus arcu. Cras lacinia congue velit sit amet ultricies. Fusce pellentesque congue purus, consectetur cursus lacus posuere at. Integer augue magna, rhoncus et malesuada vitae, lacinia sit amet velit. Curabitur vel est non libero pharetra eleifend. Quisque fringilla at turpis quis fringilla. Praesent eu sapien odio. </typePrefix>
+            <vendor>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et sapien sit amet enim dapibus hendrerit sed a diam. Phasellus eget dapibus arcu. Cras lacinia congue velit sit amet ultricies. Fusce pellentesque congue purus, consectetur cursus lacus posuere at. Integer augue magna, rhoncus et malesuada vitae, lacinia sit amet velit. Curabitur vel est non libero pharetra eleifend. Quisque fringilla at turpis quis fringilla. Praesent eu sapien odio. </vendor>
+            <model>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et sapien sit amet enim dapibus hendrerit sed a diam. Phasellus eget dapibus arcu. Cras lacinia congue velit sit amet ultricies. Fusce pellentesque congue purus, consectetur cursus lacus posuere at. Integer augue magna, rhoncus et malesuada vitae, lacinia sit amet velit. Curabitur vel est non libero pharetra eleifend. Quisque fringilla at turpis quis fringilla. Praesent eu sapien odio. </model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
