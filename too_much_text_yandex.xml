@@ -8,8 +8,10 @@
         <currency id="RUR"/>
     </currencies>
     <categories>
-        <category id="1" parentId="0">Кондиционеры</category>
-        <category id="2" parentId="1">Настенные кондиционеры</category>
+        <category id="1" parentId="0">Electronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel Electronics > Video > 
+</category>
+        <category id="2" parentId="1">Electronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel TelevisionsElectronics > Video > Televisions > Flat Panel Electronics > Video > 
+</category>
     </categories>
     <offers>
         <offer id="1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111" available="true">
