@@ -10,13 +10,12 @@
 <category id="10" parentId="1">Мелкая техника для кухни</category>
 </categories>
 <offers>
-<offer id="0123450" available="true">
+<offer  available="true">
 <typePrefix>Антивирус</typePrefix>
 <vendor>Eset</vendor>
-<model>NOD32-ENA-NS(BOx)-2-1</model>
+<model>NOD32-ENA-NS(BOX)-2-1</model>
 <description>Антивирус</description>
 <url>https://www.mail.ru</url>
-<price>1620.00</price>
 <oldprice>1800.00</oldprice>
 <currencyId>RUB</currencyId>
 <categoryId>10</categoryId>
