@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
-    <entry>
-        
+    <entry>        
         <g:title>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor.</g:title>
         <g:description>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor.</g:description>
         <g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
@@ -16,12 +15,10 @@
         </g:shipping>
         <g:gtin>71919219405200</g:gtin>
         <g:brand>LG</g:brand>
-        <g:mpn>22LB4510/US</g:mpn>
-        <g:google_product_category>Electronics > Video </g:google_product_category>
+        <g:mpn>22LB4510/US</g:mpn>        
         <g:product_type>Electronics > Video </g:product_type>
     </entry>
-     <entry>
-        
+     <entry>        
         <g:title>LG 22LB4510 - 22" LED TV - 1080p (FullHD)</g:title>
         <g:description>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor.</g:description>
         <g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
@@ -36,8 +33,7 @@
         </g:shipping>
         <g:gtin>71919219405200</g:gtin>
         <g:brand>LG</g:brand>
-        <g:mpn>22LB4510/US</g:mpn>
-        <g:google_product_category>Electronics > Video > Televisions > Flat Panel Televisions</g:google_product_category>
+        <g:mpn>22LB4510/US</g:mpn>       
         <g:product_type>Consumer Electronics > TVs > Flat Panel TVs</g:product_type>
     </entry>
      <entry>
@@ -56,8 +52,7 @@
         </g:shipping>
         <g:gtin>71919219405200</g:gtin>
         <g:brand>LG</g:brand>
-        <g:mpn>22LB4510/US</g:mpn>
-        <g:google_product_category>Electronics > Video > Televisions > Flat Panel Televisions</g:google_product_category>
+        <g:mpn>22LB4510/US</g:mpn>        
         <g:product_type>Consumer Electronics > TVs > Flat Panel TVs</g:product_type>
     </entry>
      <entry>
@@ -76,8 +71,7 @@
         </g:shipping>
         <g:gtin>71919219405200</g:gtin>
         <g:brand>LG</g:brand>
-        <g:mpn>22LB4510/US</g:mpn>
-        <g:google_product_category>Electronics > Video > Televisions > Flat Panel Televisions</g:google_product_category>
+        <g:mpn>22LB4510/US</g:mpn>        
         <g:product_type>Consumer Electronics > TVs > Flat Panel TVs</g:product_type>
     </entry>
 </feed>
