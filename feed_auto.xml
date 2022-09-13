@@ -32,7 +32,7 @@
     <state_of_vehicle>Used</state_of_vehicle>
       </item>
 	  <item>
-    <id>0</id>
+    <id>1</id>
     <title>Volvo XC-90</title>
     <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Ba </description>
     <link>https://www.example.com/car-1234> </link>
@@ -61,7 +61,7 @@
     <state_of_vehicle>Used</state_of_vehicle>
       </item>
 	  <item>
-    <id>0</id>
+    <id>2</id>
     <title>Volvo XC-90</title>
     <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Ba </description>
     <link>https://www.example.com/car-1234> </link>
@@ -90,7 +90,7 @@
     <state_of_vehicle>Used</state_of_vehicle>
       </item>
 	  <item>
-    <id>0</id>
+    <id>3</id>
     <title>Volvo XC-90</title>
     <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Ba </description>
     <link>https://www.example.com/car-1234> </link>
