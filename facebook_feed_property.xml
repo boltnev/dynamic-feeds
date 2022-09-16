@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listings>
+    <title>example.com Feed</title>
+    <link rel="self" href="http://www.example.com"/>
+    <listing>
+        <home_listing_id>12345678</home_listing_id>
+        <name>1 Hacker Way, Menlo Park, CA 94025</name>
+        <availability>for_rent</availability>
+        <description>An amazing listing</description>
+        <address format="simple">
+            <component name="addr1">1 Hacker Way</component>
+            <component name="city">Menlo Park</component>
+            <component name="region">California</component>
+            <component name="country">United States</component>
+            <component name="postal_code">94025</component>
+        </address>
+        <latitude>1.11414</latitude>
+        <longitude>-1.835003</longitude>
+        <neighborhood>Menlo Oaks</neighborhood>
+        <image>
+            <url>http://example.com/12345678-1.jpg</url>
+        </image>
+        <image>
+            <url>http://example.com/12345678-2.jpg</url>
+        </image>
+        <image>
+            <url>http://example.com/12345678-3.jpg</url>
+        </image>
+        <listing_type>for_rent_by_agent</listing_type>
+        <num_baths>6</num_baths>
+        <num_beds>5</num_beds>
+        <num_units>1</num_units>
+        <price>110000 USD</price>
+        <property_type>house</property_type>
+        <url>http://www.example.com/link_to_listing</url>
+        <year_built>2007</year_built>
+    </listing>
+</listings>
