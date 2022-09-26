@@ -18,10 +18,10 @@
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
             <picture>https://st2.depositphotos.com/3897335/6680/i/950/depositphotos_66802675-stock-photo-number-600.jpg</picture>
-            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quam nisi, ultricies ac posuere sed, porttitor eget nisi. Sed gravida fermentum mi id tempus. Morbi volutpat, enim id pulvinar facilisis, metus augue rutrum dolor, ac hendrerit ligula velit eu orci. Pellentesque odio enim, pretium vitae dolor dictum, aliquet tincidunt lorem. </description>
-            <typePrefix>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quam nisi, ultricies ac posuere sed, porttitor eget nisi. Sed gravida fermentum mi id tempus. Morbi volutpat, enim id pulvinar facilisis, metus augue rutrum dolor, ac hendrerit ligula velit eu orci. Pellentesque odio enim, pretium vitae dolor dictum, aliquet tincidunt lorem. </typePrefix>
-            <vendor>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quam nisi, ultricies ac posuere sed, porttitor eget nisi. Sed gravida fermentum mi id tempus. Morbi volutpat, enim id pulvinar facilisis, metus augue rutrum dolor, ac hendrerit ligula velit eu orci. Pellentesque odio enim, pretium vitae dolor dictum, aliquet tincidunt lorem. </vendor>
-            <model>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quam nisi, ultricies ac posuere sed, porttitor eget nisi. Sed gravida fermentum mi id tempus. Morbi volutpat, enim id pulvinar facilisis, metus augue rutrum dolor, ac hendrerit ligula velit eu orci. Pellentesque odio enim, pretium vitae dolor dictum, aliquet tincidunt lorem. </model>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.  rutrum dolor, ac hendrerit ligula velit eu orci.</description>
+            <typePrefix>Lorem ipsum dolor sit amet, consectetur adipiscing elit.. Pellentesque odio enim, pretium vitae dolor dictum, aliquet tincidunt lorem. </typePrefix>
+            <vendor>Lorem ipsum dolor sit amet, consectetur adipiscing elit. t, itae dolor dictum, aliquet tincidunt lorem. </vendor>
+            <model>Lorem ipsum dolor sit amet, consectetur adipiscing elit.nim id pulvinar facilisis, metus augue rutrum dolor, aliquet tincidunt lorem. </model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
@@ -43,8 +43,8 @@
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>http://ad.doubleclick.net/clk;257575448;76404889;g </android_tracking_url>
-            <ios_tracking_url>http://ad.doubleclick.net/clk;257575448;76404889;g </ios_tracking_url>
+            <android_tracking_url>https://redirect.appmetrica.yandex.com/serve/745367083243574645</android_tracking_url>
+            <ios_tracking_url>https://redirect.appmetrica.yandex.com/serve/745367083243574645</ios_tracking_url>
         </offer>
     </offers>
 </shop>
