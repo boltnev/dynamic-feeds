@@ -9,6 +9,7 @@
         <g:condition>used</g:condition>
         <g:availability>in stock</g:availability>
         <g:price>159.00 USD</g:price>
+        <g:sale_price>159.00 RUB</g:sale_price>
         <g:shipping>
             <g:country>US</g:country>
             <g:service>Standard</g:service>
@@ -27,7 +28,8 @@
         <g:image_link>https://www.sr-ix.com/Archive/BurningMan/CO2-mascot/images/CO22.bmp</g:image_link>
         <g:condition>used</g:condition>
         <g:availability>in stock</g:availability>
-        <g:price>159.00 USD</g:price>
+        <g:price>159.00 RUB</g:price>
+         <g:sale_price>159.00 RUR</g:sale_price>
         <g:shipping>
             <g:country>US</g:country>
             <g:service>Standard</g:service>
@@ -47,6 +49,7 @@
         <g:condition>used</g:condition>
         <g:availability>in stock</g:availability>
         <g:price>159.00 USD</g:price>
+        <g:sale_price>159.00 RUB</g:sale_price>
         <g:shipping>
             <g:country>US</g:country>
             <g:service>Standard</g:service>
@@ -66,6 +69,7 @@
         <g:condition>used</g:condition>
         <g:availability>in stock</g:availability>
         <g:price>159.00 USD</g:price>
+         <g:sale_price>159.00 BYN</g:sale_price>
         <g:shipping>
             <g:country>US</g:country>
             <g:service>Standard</g:service>
