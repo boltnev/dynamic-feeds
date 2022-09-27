@@ -1,6 +1,26 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
     <entry>
+        <g:id>TV</g:id>
+        <g:title>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor.</g:title>
+        <g:description>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor.</g:description>
+        <g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
+        <g:image_link>https://www.sr-ix.com/Archive/BurningMan/CO2-mascot/images/CO22.bmp</g:image_link>
+        <g:condition>used</g:condition>
+        <g:availability>in stock</g:availability>
+        <g:price>159.00 USD</g:price>
+        <g:sale_price>159.00 USD</g:sale_price>
+        <g:shipping>
+            <g:country>US</g:country>
+            <g:service>Standard</g:service>
+            <g:price>14.95 USD</g:price>
+        </g:shipping>
+        <g:gtin>71919219405200</g:gtin>
+        <g:brand>LG</g:brand>
+        <g:mpn>22LB4510/US</g:mpn>        
+        <g:product_type>Electronics > Video </g:product_type>
+    </entry>
+    <entry>
         <g:id>TV_0</g:id>
         <g:title>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor.</g:title>
         <g:description>Attractively styled and boasting stunning picture quality, the LG 22LB4510 - 22" LED TV - 1080p (FullHD) is an excellent television/monitor.</g:description>
