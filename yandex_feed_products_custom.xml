@@ -17,7 +17,7 @@
             <price>10596</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
-            <picture>https://www.example.com/pictures/model-ls-h0561al-1.jpeg</picture>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
             <model>LS-H0561AL</model>
@@ -25,15 +25,15 @@
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
+            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</android_tracking_url>
+            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp</ios_tracking_url>
         </offer>
-        <offer id="2" available="true" type="vendor.model">
+        <offer id="" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
             <price>30203</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
-            <picture>https://www.example.com/pictures/model-model-ls-h0893.jpeg</picture>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
             <model>LS-H0893</model>
@@ -41,15 +41,15 @@
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
+            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</android_tracking_url>
+            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</ios_tracking_url>
         </offer>
         <offer id="3" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
             <price>30203</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
-            <picture>https://www.example.com/pictures/model-model-ls-h0893.jpeg</picture>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
             <model>LS-H0893</model>
@@ -65,7 +65,7 @@
             <price>30203</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
-            <picture>https://www.example.com/pictures/model-model-ls-h0893.jpeg</picture>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
             <model>LS-H0893</model>
@@ -81,7 +81,7 @@
             <price>30203</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
-            <picture>https://www.example.com/pictures/model-model-ls-h0893.jpeg</picture>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
             <model>LS-H0893</model>
@@ -97,7 +97,7 @@
             <price>30203</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
-            <picture>https://www.example.com/pictures/model-model-ls-h0893.jpeg</picture>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
             <model>LS-H0893</model>
@@ -113,7 +113,7 @@
             <price>30203</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
-            <picture>https://www.example.com/pictures/model-model-ls-h0893.jpeg</picture>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
             <model>LS-H0893</model>
@@ -129,7 +129,7 @@
             <price>30203</price>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
-            <picture>https://www.example.com/pictures/model-model-ls-h0893.jpeg</picture>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
             <model>LS-H0893</model>
