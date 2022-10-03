@@ -26,7 +26,7 @@
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
             <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp</ios_tracking_url>
+            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</ios_tracking_url>
         </offer>
         <offer id="" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
