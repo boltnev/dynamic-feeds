@@ -12,6 +12,7 @@
 <offers>
 <offer id="0123450" available="false">
   <name>Антивирус ESET NOD32 Platinum Edition</name> 
+  <vendor>ESET</vendor>
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
   <url>http://www.надежнаятехника.рф/catalog/element/index.php</url>
@@ -31,6 +32,7 @@
 </offer>
 <offer id="0123451" available="false">
   <name>Антивирус ESET NOD32 Platinum Edition</name>  
+  <vendor>ESET</vendor>
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
   <url>http://www.надежнаятехника.рф/catalog/element/index.php</url>
@@ -50,6 +52,7 @@
 </offer>
 <offer id="0123452" available="false">
   <name>Антивирус ESET NOD32 Platinum Edition</name>
+  <vendor>ESET</vendor>
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
   <url>http://www.надежнаятехника.рф/catalog/element/index.php</url>
@@ -69,6 +72,7 @@
 </offer>
 <offer id="0123453" available="false">
   <name>Антивирус ESET NOD32 Platinum Edition</name>
+  <vendor>ESET</vendor>
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
   <url>http://www.надежнаятехника.рф/catalog/element/index.php</url>
@@ -88,6 +92,7 @@
 </offer>
 <offer id="0123454" available="false">
 <name>Антивирус ESET NOD32 Platinum Edition</name>
+  <vendor>ESET</vendor>
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
   <url>http://www.надежнаятехника.рф/catalog/element/index.php</url>
@@ -107,6 +112,7 @@
 </offer>
 <offer id="0123455" available="false">
 <name>Антивирус ESET NOD32 Platinum Edition</name>
+  <vendor>ESET</vendor>
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
   <url>http://www.надежнаятехника.рф/catalog/element/index.php</url>
