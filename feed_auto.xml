@@ -5,7 +5,7 @@
   <item>
     <id>0</id>
     <title>Volvo XC-90</title>
-    <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Ba </description>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum </description>
     <link>https://www.example.com/car-1234> </link>
     <brand>Volvo</brand>
     <image_link>https://images.drive.ru/i/0/5ea2cf26ec05c4e76a00000e.jpg</image_link>
@@ -32,7 +32,7 @@
       </item>
 	  <item>
     <id>1</id>
-    <title>Volvo XC-90</title>
+    <title>VOLVO XC90</title>
     <description>Adjustable Steering Column, Adjustable Steering Wheel, Air Ba </description>
     <link>https://www.example.com/car-1234> </link>
     <brand>Volvo</brand>
