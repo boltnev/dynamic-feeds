@@ -7,7 +7,7 @@
         <g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
         <g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
         <g:condition>used</g:condition>
-        <g:availability>in stock</g:availability>
+        <g:availability>true</g:availability>
         <g:price>159.00 USD</g:price>
         <g:shipping>
             <g:country>US</g:country>
@@ -27,7 +27,7 @@
         <g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
         <g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
         <g:condition>used</g:condition>
-        <g:availability>in stock</g:availability>
+        <g:availability>true</g:availability>
         <g:price>159.00 USD</g:price>
         <g:shipping>
             <g:country>US</g:country>
@@ -47,7 +47,7 @@
         <g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
         <g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
         <g:condition>used</g:condition>
-        <g:availability>in stock</g:availability>
+        <g:availability>true</g:availability>
         <g:price>159.00 USD</g:price>
         <g:shipping>
             <g:country>US</g:country>
@@ -67,7 +67,7 @@
         <g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
         <g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
         <g:condition>used</g:condition>
-        <g:availability>in stock</g:availability>
+        <g:availability>true</g:availability>
         <g:price>159.00 USD</g:price>
         <g:shipping>
             <g:country>US</g:country>
@@ -87,7 +87,7 @@
         <g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
         <g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
         <g:condition>used</g:condition>
-        <g:availability>in stock</g:availability>
+        <g:availability>true</g:availability>
         <g:price>159.00 USD</g:price>
         <g:shipping>
             <g:country>US</g:country>
@@ -107,7 +107,7 @@
         <g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
         <g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
         <g:condition>used</g:condition>
-        <g:availability>in stock</g:availability>
+        <g:availability>true</g:availability>
         <g:price>159.00 USD</g:price>
         <g:shipping>
             <g:country>US</g:country>
@@ -127,7 +127,7 @@
         <g:link>http://www.example.com/electronics/tv/22LB4510.html</g:link>
         <g:image_link>https://www.lg.com/us/images/tvs/22lb4510/gallery/copy-large01.jpg</g:image_link>
         <g:condition>used</g:condition>
-        <g:availability>in stock</g:availability>
+        <g:availability>true</g:availability>
         <g:price>159.00 USD</g:price>
         <g:shipping>
             <g:country>US</g:country>
