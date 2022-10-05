@@ -27,7 +27,7 @@
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
            
-            <ios_tracking_url>https://redirect.appmetrica.yandex.com/serve/745367083243574645</ios_tracking_url>
+            <ios_tracking_url>//redirect.appmetrica.yandex.com/serve/745367083243574645</ios_tracking_url>
         </offer>
         <offer id="2" available="true">
             <url>https://www.example.com/cond/model-ls-h0893</url>
@@ -44,7 +44,7 @@
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
            
-            <ios_tracking_url>https://redirect.appmetrica.yandex.com/serve/745367083243574645</ios_tracking_url>
+            <ios_tracking_url>://redirect.appmetrica.yandex.com/serve/745367083243574645</ios_tracking_url>
         </offer>
     </offers>
 </shop>
