@@ -26,7 +26,7 @@
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://redirect.rambler.com/serve/745367083243574645</android_tracking_url>
+           
             <ios_tracking_url>https://redirect.appmetrica.yandex.com/serve/745367083243574645</ios_tracking_url>
         </offer>
         <offer id="2" available="true">
@@ -43,7 +43,7 @@
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://redirect.rambler.com/serve/745367083243574645</android_tracking_url>
+           
             <ios_tracking_url>https://redirect.appmetrica.yandex.com/serve/745367083243574645</ios_tracking_url>
         </offer>
     </offers>
