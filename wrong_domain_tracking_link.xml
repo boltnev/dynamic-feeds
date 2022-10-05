@@ -22,7 +22,7 @@
             <typePrefix>Lorem ipsum dolor sit amet, consectetur adipiscing elit.. Pellentesque odio enim, pretium vitae dolor dictum, aliquet tincidunt lorem. </typePrefix>
             <vendor>Lorem ipsum dolor sit amet, consectetur adipiscing elit. t, itae dolor dictum, aliquet tincidunt lorem. </vendor>
             <model>Lorem ipsum dolor sit amet, consectetur adipiscing elit.nim id pulvinar facilisis, metus augue rutrum dolor, aliquet tincidunt lorem. </model>
-            <android_url>myapp://product?article=100001 </android_url>
+            <android_url>app://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
             <ios_app_store_id>100500</ios_app_store_id>
