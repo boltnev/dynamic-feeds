@@ -108,8 +108,9 @@
       <g:mobile_android_app_link>sportmaster://product/26024280299/</g:mobile_android_app_link>
       <g:mobile_ios_app_link>sportmaster://product/26024280299/</g:mobile_ios_app_link>
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
-	  <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
-	  <g:ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int</g:ios_tracking_url>
+      <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int&af_dp=sportmaster%3A%2F%2Fproduct%2F26670410299%2F%3Futm_medium%3Dsoc_banner_ret%26utm_source%3Dmail.ru_int</g:android_tracking_url>
+
+<g:ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int&af_dp=sportmaster%3A%2F%2Fproduct%2F26670410299%2F%3Futm_medium%3Dsoc_banner_ret%26utm_source%3Dmail.ru_int</g:ios_tracking_url>
     </item>
   </channel>
 </rss>
