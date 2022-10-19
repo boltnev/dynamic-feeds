@@ -10,7 +10,7 @@
 <category id="10" parentId="1">Мелкая техника для кухни</category>
 </categories>
 <offers>
-<offer id="0123450" available="true">
+<offer id="0" available="true">
   <name>Антивирус ESET NOD32 Platinum Edition</name>  
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
@@ -29,7 +29,7 @@
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
 </offer>
-<offer id="0123455" available="true">
+<offer id="1" available="true">
   <name>Антивирус ESET NOD32 Platinum Edition</name>
   <model>NOD32 Platinum Edition</model>
   <vendor>Eset</vendor>
