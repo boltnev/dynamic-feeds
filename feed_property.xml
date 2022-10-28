@@ -9,6 +9,7 @@
         <availability>for_sale</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
         <location>
+	    <locality>Казань</locality>
             <country>Россия</country>
             <region>Республика Татарстан </region>
             <address>Рихарда Зорге 66Д </address>             
@@ -35,6 +36,7 @@
         <availability>for_sale</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
         <location>
+		<locality>Казань</locality>
             <country>Россия</country>
             <region>Республика Татарстан</region>
             <locality>Казань</locality>
