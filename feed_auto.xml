@@ -21,6 +21,9 @@
     <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
     <price>2000000 RUB</price>
+    <sale_price>5999999</sale_price>
+<min_price>5000000</min_price>
+<max_price>7000000</max_price>
     <location>
       <address>3-я улица Строителей, 55</address>
       <locality>Санкт-Петербург</locality>
@@ -49,6 +52,9 @@
     <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
     <price>2000000 RUB</price>
+		  <sale_price>5999999</sale_price>
+<min_price>5000000</min_price>
+<max_price>7000000</max_price>
     <location>
       <address>3-я улица Строителей, 55</address>
       <locality>Санкт-Петербург</locality>
@@ -78,6 +84,9 @@
     <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
     <price>2000000 RUB</price>
+		  <sale_price>5999999</sale_price>
+<min_price>5000000</min_price>
+<max_price>7000000</max_price>
     <location>
       <address>3-я улица Строителей, 55</address>
       <locality>Санкт-Петербург</locality>
@@ -107,6 +116,9 @@
     <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
     <price>2000000 RUB</price>
+		  <sale_price>5999999</sale_price>
+<min_price>5000000</min_price>
+<max_price>7000000</max_price>
     <location>
       <address>3-я улица Строителей, 55</address>
       <locality>Санкт-Петербург</locality>
@@ -135,6 +147,9 @@
     <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
     <price>2000000 RUB</price>
+	<sale_price>5999999</sale_price>
+<min_price>5000000</min_price>
+<max_price>7000000</max_price>
     <location>
       <address>3-я улица Строителей, 55</address>
       <locality>Санкт-Петербург</locality>
@@ -164,6 +179,9 @@
     <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
     <price>2000000 RUB</price>
+		  <sale_price>5999999</sale_price>
+<min_price>5000000</min_price>
+<max_price>7000000</max_price>
     <location>
       <address>3-я улица Строителей, 55</address>
       <locality>Санкт-Петербург</locality>
