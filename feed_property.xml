@@ -17,6 +17,7 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+	<sale_price>5999999</sale_price>
 	<min_price>5000000</min_price>
 	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
@@ -43,6 +44,7 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+	<sale_price>5999999</sale_price>
         <min_price>5000000</min_price>
 	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
@@ -63,13 +65,13 @@
             <country>Россия</country>
             <region>Республика Татарстан</region>
             <locality>Казань</locality>
-            <address>Рихарда Зорге 66Д </address>
-                 
+            <address>Рихарда Зорге 66Д </address>                 
         </location>
         <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+        <sale_price>5999999</sale_price>
 	<min_price>5000000</min_price>
 	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
@@ -96,6 +98,7 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+	<sale_price>5999999</sale_price>
         <min_price>5000000</min_price>
 	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
@@ -122,6 +125,7 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+	<sale_price>5999999</sale_price>
         <min_price>5000000</min_price>
 	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
@@ -148,6 +152,7 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+	<sale_price>5999999</sale_price>
         <min_price>5000000</min_price>
 	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
@@ -174,6 +179,7 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+	<sale_price>5999999</sale_price>
         <min_price>5000000</min_price>
 	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
@@ -200,6 +206,7 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+	<sale_price>5999999</sale_price>
         <min_price>5000000</min_price>
 	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
@@ -210,6 +217,4 @@
 		  <floor>24</floor>
 	    <floors>26</floors>
     </item>
-
-
 </channel>
