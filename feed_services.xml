@@ -21,6 +21,8 @@
         </location>
         <price>1000 RUB </price>
         <sale_price>800 RUB</sale_price>
+	<min_price>5000000</min_price>
+        <max_price>7000000</max_price>
         <phone>+7 495 479 1234 </phone>
         <rating>5</rating>
         <worker_type>juridical</worker_type>
@@ -46,6 +48,8 @@
         </location>
         <price>1000 RUB </price>
         <sale_price>800 RUB</sale_price>
+	<min_price>5000000</min_price>
+        <max_price>7000000</max_price>
         <phone>+7 495 479 1234 </phone>
         <rating>5</rating>
         <worker_type>juridical</worker_type>
@@ -71,6 +75,8 @@
         </location>
         <price>1000 RUB </price>
         <sale_price>800 RUB</sale_price>
+	<min_price>5000000</min_price>
+        <max_price>7000000</max_price>
         <phone>+7 495 479 1234 </phone>
         <rating>5</rating>
         <worker_type>juridical</worker_type>
@@ -96,6 +102,8 @@
         </location>
         <price>1000 RUB </price>
         <sale_price>800 RUB</sale_price>
+	<min_price>5000000</min_price>
+        <max_price>7000000</max_price>
         <phone>+7 495 479 1234 </phone>
         <rating>5</rating>
         <worker_type>juridical</worker_type>
@@ -121,6 +129,8 @@
         </location>
         <price>1000 RUB </price>
         <sale_price>800 RUB</sale_price>
+	<min_price>5000000</min_price>
+        <max_price>7000000</max_price>
         <phone>+7 495 479 1234 </phone>
         <rating>5</rating>
         <worker_type>juridical</worker_type>
@@ -146,6 +156,8 @@
         </location>
         <price>1000 RUB </price>
         <sale_price>800 RUB</sale_price>
+	<min_price>5000000</min_price>
+        <max_price>7000000</max_price>
         <phone>+7 495 479 1234 </phone>
         <rating>5</rating>
         <worker_type>juridical</worker_type>
@@ -171,6 +183,8 @@
         </location>
         <price>1000 RUB </price>
         <sale_price>800 RUB</sale_price>
+        <min_price>5000000</min_price>
+        <max_price>7000000</max_price>
         <phone>+7 495 479 1234 </phone>
         <rating>5</rating>
         <worker_type>juridical</worker_type>
@@ -196,6 +210,8 @@
         </location>
         <price>1000 RUB </price>
         <sale_price>800 RUB</sale_price>
+	<min_price>5000000</min_price>
+        <max_price>7000000</max_price>
         <phone>+7 495 479 1234 </phone>
         <rating>5</rating>
         <worker_type>juridical</worker_type>
@@ -221,6 +237,8 @@
         </location>
         <price>1000 RUB </price>
         <sale_price>800 RUB</sale_price>
+	<min_price>5000000</min_price>
+        <max_price>7000000</max_price>
         <phone>+7 495 479 1234 </phone>
         <rating>5</rating>
         <worker_type>juridical</worker_type>
@@ -246,6 +264,8 @@
         </location>
         <price>1000 RUB </price>
         <sale_price>800 RUB</sale_price>
+	<min_price>5000000</min_price>
+        <max_price>7000000</max_price>
         <phone>+7 495 479 1234 </phone>
         <rating>5</rating>
         <worker_type>juridical</worker_type>
