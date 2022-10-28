@@ -18,6 +18,8 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+	<min_price>5000000</min_price>
+	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
         <link>http://www.example.com/link_to_listing</link>
         <year_built>2014</year_built>
@@ -39,6 +41,8 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+        <min_price>5000000</min_price>
+	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
         <link>http://www.example.com/link_to_listing</link>
         <year_built>2014</year_built>
@@ -60,6 +64,8 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+	<min_price>5000000</min_price>
+	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
         <link>http://www.example.com/link_to_listing</link>
         <year_built>2014</year_built>
@@ -81,6 +87,8 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+        <min_price>5000000</min_price>
+	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
         <link>http://www.example.com/link_to_listing</link>
         <year_built>2014</year_built>
@@ -102,6 +110,8 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+        <min_price>5000000</min_price>
+	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
         <link>http://www.example.com/link_to_listing</link>
         <year_built>2014</year_built>
@@ -123,6 +133,8 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+        <min_price>5000000</min_price>
+	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
         <link>http://www.example.com/link_to_listing</link>
         <year_built>2014</year_built>
@@ -144,6 +156,8 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+        <min_price>5000000</min_price>
+	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
         <link>http://www.example.com/link_to_listing</link>
         <year_built>2014</year_built>
@@ -165,71 +179,12 @@
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
         <num_rooms>2</num_rooms>       
         <price>6000000 RUB</price>
+        <min_price>5000000</min_price>
+	<max_price>7000000</max_price>
         <property_type>apartment</property_type>
         <link>http://www.example.com/link_to_listing</link>
         <year_built>2014</year_built>
     </item>
-	  <item>
-        <id>8</id>
-        <title>ЖК Изумрудный город</title>
-        <brand>Унистрой</brand>
-        <availability>for_sale</availability>
-        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
-        <location>
-            <country>Россия</country>
-            <region>Республика Татарстан</region>
-            <locality>Казань</locality>
-            <address>Рихарда Зорге 66Д </address>
-              
-        </location>
-        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
-        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
-        <num_rooms>2</num_rooms>       
-        <price>6000000 RUB</price>
-        <property_type>apartment</property_type>
-        <link>http://www.example.com/link_to_listing</link>
-        <year_built>2014</year_built>
-    </item>
-	  <item>
-        <id>9</id>
-        <title>ЖК Изумрудный город</title>
-        <brand>Унистрой</brand>
-        <availability>for_sale</availability>
-        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
-        <location>
-            <country>Россия</country>
-            <region>Республика Татарстан</region>
-            <locality>Казань</locality>
-            <address>Рихарда Зорге 66Д </address>
-                
-        </location>
-        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
-        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
-        <num_rooms>2</num_rooms>       
-        <price>6000000 RUB</price>
-        <property_type>apartment</property_type>
-        <link>http://www.example.com/link_to_listing</link>
-        <year_built>2014</year_built>
-    </item>
-	  <item>
-        <id>10</id>
-        <title>ЖК Изумрудный город</title>
-        <brand>Унистрой</brand>
-        <availability>for_sale</availability>
-        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
-        <location>
-            <country>Россия</country>
-            <region>Республика Татарстан</region>
-            <locality>Казань</locality>
-            <address>Рихарда Зорге 66Д </address>
-                 
-        </location>
-        <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
-        <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
-        <num_rooms>2</num_rooms>       
-        <price>6000000 RUB</price>
-        <property_type>apartment</property_type>
-        <link>http://www.example.com/link_to_listing</link>
-        <year_built>2014</year_built>
-    </item>
+
+
 </channel>
