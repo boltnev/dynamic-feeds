@@ -47,6 +47,83 @@
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
 </offer>
+  <offer id="2" available="true">
+  <name>Утюг Tefal SuperPuper</name>  
+  <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
+  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
+   <url>https://mail.ru</url>
+  <price>1620.00</price>
+  <oldprice>1800.00</oldprice>
+  <currencyId>RUB</currencyId>
+  <categoryId>10</categoryId>
+  <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/0/2/020714325299_1_ycgmukwtwzmvvjsl.jpg</picture>
+  <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/0/2/020714325299_1_ycgmukwtwzmvvjsl.jpg</picture>
+  <store>false</store>
+  <pickup>true</pickup>
+  <delivery>false</delivery>
+  <sales_notes>Оплата: Наличные, Б/Н, пластиковые карты, кредит</sales_notes>
+  <manufacturer_warranty>true</manufacturer_warranty>
+  <country_of_origin>Россия</country_of_origin>
+  <age unit="year">18</age>
+</offer>
+  <offer id="3" available="true">
+  <name>Утюг Tefal SuperPuper</name>  
+  <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
+  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
+   <url>https://mail.ru</url>
+  <price>1620.00</price>
+  <oldprice>1800.00</oldprice>
+  <currencyId>RUB</currencyId>
+  <categoryId>10</categoryId>
+  <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/0/2/020714325299_1_ycgmukwtwzmvvjsl.jpg</picture>
+  <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/0/2/020714325299_1_ycgmukwtwzmvvjsl.jpg</picture>
+  <store>false</store>
+  <pickup>true</pickup>
+  <delivery>false</delivery>
+  <sales_notes>Оплата: Наличные, Б/Н, пластиковые карты, кредит</sales_notes>
+  <manufacturer_warranty>true</manufacturer_warranty>
+  <country_of_origin>Россия</country_of_origin>
+  <age unit="year">18</age>
+</offer>
+  <offer id="4" available="true">
+  <name>Утюг Tefal SuperPuper</name>  
+  <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
+  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
+   <url>https://mail.ru</url>
+  <price>1620.00</price>
+  <oldprice>1800.00</oldprice>
+  <currencyId>RUB</currencyId>
+  <categoryId>10</categoryId>
+  <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/0/2/020714325299_1_ycgmukwtwzmvvjsl.jpg</picture>
+  <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/0/2/020714325299_1_ycgmukwtwzmvvjsl.jpg</picture>
+  <store>false</store>
+  <pickup>true</pickup>
+  <delivery>false</delivery>
+  <sales_notes>Оплата: Наличные, Б/Н, пластиковые карты, кредит</sales_notes>
+  <manufacturer_warranty>true</manufacturer_warranty>
+  <country_of_origin>Россия</country_of_origin>
+  <age unit="year">18</age>
+</offer>
+  <offer id="5" available="true">
+  <name>Утюг Tefal SuperPuper</name>  
+  <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
+  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
+   <url>https://mail.ru</url>
+  <price>1620.00</price>
+  <oldprice>1800.00</oldprice>
+  <currencyId>RUB</currencyId>
+  <categoryId>10</categoryId>
+  <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/0/2/020714325299_1_ycgmukwtwzmvvjsl.jpg</picture>
+  <picture>https://goldapple.ru/media/catalog/product/cache/0a19ad76fdd08744e75b836c7a3f78eb/0/2/020714325299_1_ycgmukwtwzmvvjsl.jpg</picture>
+  <store>false</store>
+  <pickup>true</pickup>
+  <delivery>false</delivery>
+  <sales_notes>Оплата: Наличные, Б/Н, пластиковые карты, кредит</sales_notes>
+  <manufacturer_warranty>true</manufacturer_warranty>
+  <country_of_origin>Россия</country_of_origin>
+  <age unit="year">18</age>
+</offer>
+  
 </offers>
 </shop>
 </yml_catalog>
