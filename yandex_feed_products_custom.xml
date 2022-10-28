@@ -15,6 +15,7 @@
         <offer id="1" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0561al</url>
             <price>10596</price>
+            <oldprice>11000</oldprice>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
@@ -31,6 +32,7 @@
         <offer id="" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
             <price>30203</price>
+            <oldprice>11000</oldprice>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
@@ -47,6 +49,7 @@
         <offer id="3" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
             <price>30203</price>
+            <oldprice>11000</oldprice>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
@@ -63,6 +66,7 @@
         <offer id="4" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
             <price>30203</price>
+            <oldprice>11000</oldprice>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
@@ -79,6 +83,7 @@
         <offer id="5" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
             <price>30203</price>
+            <oldprice>11000</oldprice>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
@@ -95,6 +100,7 @@
         <offer id="6" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
             <price>30203</price>
+            <oldprice>11000</oldprice>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
@@ -111,6 +117,7 @@
         <offer id="7" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
             <price>30203</price>
+            <oldprice>11000</oldprice>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
@@ -127,6 +134,7 @@
         <offer id="8" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
             <price>30203</price>
+            <oldprice>11000</oldprice>
             <currencyId>RUR</currencyId>
             <categoryId>2</categoryId>
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
