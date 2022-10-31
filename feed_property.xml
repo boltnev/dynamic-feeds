@@ -6,7 +6,7 @@
         <id>0</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
-        <availability>for_sale</availability>
+        <availability>out of stock</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
         <location>
 	    <locality>Казань</locality>
@@ -33,7 +33,7 @@
         <id>1</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
-        <availability>for_sale</availability>
+        <availability>out of stock</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
         <location>
 		<locality>Казань</locality>
@@ -61,7 +61,7 @@
         <id>2</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
-        <availability>for_sale</availability>
+        <availability>out of stock</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
         <location>
             <country>Россия</country>
@@ -88,7 +88,7 @@
         <id>3</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
-        <availability>for_sale</availability>
+        <availability>out of stock</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
         <location>
             <country>Россия</country>
@@ -115,7 +115,7 @@
         <id>4</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
-        <availability>for_sale</availability>
+        <availability>for rent</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
         <location>
             <country>Россия</country>
@@ -142,7 +142,7 @@
         <id>5</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
-        <availability>for_sale</availability>
+        <availability>not available</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
         <location>
             <country>Россия</country>
@@ -169,7 +169,7 @@
         <id>6</id>
         <title>ЖК Изумрудный город</title>
         <brand>Унистрой</brand>
-        <availability>for_sale</availability>
+        <availability>available</availability>
         <description>Уютный жилой комплекс в 15 минутах от центра города</description>
         <location>
             <country>Россия</country>
