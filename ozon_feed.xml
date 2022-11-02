@@ -1,0 +1,68 @@
+<yml_catalog date="2020-11-22T14:37:38+03:00">
+	<shop>
+		<name>BestSeller</name>
+		<company>Tne Best inc.</company>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>		
+		<offers>
+			<offer id ="S2-SGE" available="true">
+				<name>Складной силиконовый стакан с трубочкой Stojo, Rose, 470 мл </name>           
+				
+				<url>https://www.ozon.ru/product/skladnoy-silikonovyy-stakan-s-trubochkoy-stojo-rose-470-ml-769623520/?sh=q38F6blP0g
+                </url>
+                <price>2650</price>
+                <oldprice>2800 </oldprice>
+				<currencyId>RUB</currencyId>				
+				<picture>https://cdn1.ozone.ru/s3/multimedia-x/6454939089.jpg </picture>				
+			</offer>
+			<offer id="S2-LIL" available="true">
+				<name>Складной силиконовый стакан с трубочкой Stojo, Rose, 470 мл  </name>				
+				<url>https://www.ozon.ru/product/skladnoy-silikonovyy-stakan-s-trubochkoy-stojo-rose-470-ml-769623601/?_bctx=CAQQrNgp&amp;amp;asb2=Il6f_qNxRXKV7gzuclvFbIZaIqHXIJGjUEyZoD68b2-zEJSYbOnej52ezwfrBZlr&amp;amp;avtc=1&amp;avte=2&amp;avts=1667393754&amp;hs=1&amp;miniapp=seller_683052&amp;sh=q38F6QS77g
+                </url>
+				<price>2650</price>		
+                <oldprice>2800 </oldprice>		
+				<currencyId>RUB</currencyId>				
+				<picture>https://cdn1.ozone.ru/s3/multimedia-o/6454939080.jpg
+                </picture>				
+			</offer>
+			<offer id="S2-ROS" available="true">
+				<name>Складной силиконовый стакан с трубочкой Stojo, Rose, 470 мл </name>				
+				<url>https://www.ozon.ru/product/skladnoy-silikonovyy-stakan-s-trubochkoy-stojo-rose-470-ml-769623521/?_bctx=CAQQrNgp&amp;asb2=lzYz43lR6yTctM7_qUX1lz4OwHhdZ_vzO0kZoOrQzIzyNrJ3nL8ZYYNxKHeQAcyF&amp;avtc=1&amp;avte=2&amp;avts=1667393754&amp;hs=1&amp;miniapp=seller_683052&amp;sh=q38F6YYyLQ
+                </url>
+				<price>2650</price>
+                <oldprice>2800 </oldprice>
+				<currencyId>RUB</currencyId>				
+				<picture>https://cdn1.ozone.ru/s3/multimedia-z/6454939091.jpg
+                </picture>				
+			</offer>
+			<offer id="S2-EUC" available="true">
+				<name>Складной силиконовый стакан с трубочкой Stojo, Rose, 470 мл  </name>				
+				<url>https://www.ozon.ru/product/skladnoy-silikonovyy-stakan-s-trubochkoy-stojo-rose-470-ml-769623526/?sh=q38F6a-0kQ
+                </url>
+				<price>2650</price>
+                <oldprice>2800 </oldprice>
+				<currencyId>RUB</currencyId>				
+				<picture>https://cdn1.ozone.ru/s3/multimedia-m/6454939078.jpg                </picture>				
+			</offer>
+			<offer id="S2-STE" available="true">
+				<name>Складной силиконовый стакан Stojo, Peony, 355 мл </name>				
+				<url>http://www.mail.ru</url>
+				<price>2650</price>
+                <oldprice>2800 </oldprice>
+				<currencyId>RUB</currencyId>				
+				<picture>https://cdn1.ozone.ru/s3/multimedia-5/6457991897.jpg
+                </picture>				
+			</offer>
+			<offer id="S2-PNY" available="true">
+				<name>Складной силиконовый стакан Stojo, Peony, 355 мл   </name>				
+				<url>http://www.mail.ru</url>
+				<price>2650</price>
+                <oldprice>2800 </oldprice>
+				<currencyId>RUB</currencyId>				
+				<picture>https://cdn1.ozone.ru/s3/multimedia-6/6457991898.jpg
+                </picture>				
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
