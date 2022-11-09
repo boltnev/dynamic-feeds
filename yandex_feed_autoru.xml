@@ -10,7 +10,7 @@
       <owners_number>Не было владельцев</owners_number>
       <year>2017</year>
       <price>1216990</price>      
-      <currency>RUR</currency>     
+      <currency>UAH</currency>     
       <vin>SJNSSAF15U7368814</vin>
       <url>https://auto.ru/cars/used/sale/nissan/juke/1116991163-b5954cb9/</url>
       <description>Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!"
@@ -29,7 +29,26 @@
       <owners_number>Не было владельцев</owners_number>
       <year>2017</year>
       <price>1300000</price>     
-      <currency>RUR</currency>      
+      <currency>BYN</currency>      
+      <vin>Z8NFBAJ22ES028746</vin>
+      <url>https://auto.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>
+      <description>Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!
+         </description>     
+      <images>
+           <image>https://avatars.mds.yandex.net/get-autoru-vos/1964188/9d87384041272722efc3ee1f62bef984/1200x900n</image>          
+         </images>
+      <poi_id>г. Воронеж, Дорожная 125</poi_id>      
+        </car>
+        <car>
+      <mark_id>Nissan</mark_id>
+      <folder_id>Qashqai, II</folder_id>      
+      <body_type>Внедорожник</body_type>       
+      <color>серый</color>      
+      <availability>в наличии</availability>      
+      <owners_number>Не было владельцев</owners_number>
+      <year>2017</year>
+      <price>1300000</price>     
+      <currency>KZT</currency>      
       <vin>Z8NFBAJ22ES028746</vin>
       <url>https://auto.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>
       <description>Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!
