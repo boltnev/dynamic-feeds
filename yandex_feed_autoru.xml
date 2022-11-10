@@ -18,7 +18,8 @@
       <images>
            <image>https://0.db-estate.cdn.pik-service.ru/layout/2022/07/12/10_mVw5VJRDio4HK5bi.png</image>          
          </images>
-      <poi_id>г. Воронеж, Дорожная 125</poi_id>      
+      <poi_id>г. Воронеж, Дорожная 125</poi_id>  
+            <run>500.000.00</run>
         </car>
    
           <car>
@@ -38,7 +39,8 @@
       <images>
            <image>https://cdn-icons-png.flaticon.com/512/108/108732.png</image>          
          </images>
-      <poi_id>г. Воронеж, Дорожная 125</poi_id>      
+      <poi_id>г. Воронеж, Дорожная 125</poi_id>     
+              <run>500,000.00</run>
         </car>
           <car>
       <mark_id>Nissan</mark_id>
