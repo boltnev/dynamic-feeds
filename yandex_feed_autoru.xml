@@ -59,5 +59,24 @@
          </images>
       <poi_id>г. Воронеж, Дорожная 125</poi_id>      
         </car>
+             <car>
+      <mark_id>Nissan</mark_id>
+      <folder_id>Qashqai, II</folder_id>      
+      <body_type>Внедорожник</body_type>       
+      <color>серый</color>      
+      <availability>в наличии</availability>      
+      <owners_number>Новый</owners_number>
+      <year>2017</year>
+      <price>1300000</price>    
+         <currency>RUB</currency>  
+      <unique_id>b7027f76133fddda985dc132df21e765b7027f76133fddda985dc132df444</unique_id>
+      <url>https://auto.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>
+      <description>Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!
+         </description>     
+      <images>
+           <image>https://upload.wikimedia.org/wikipedia/commons/6/60/OpenEuphoria_mascot_200px.png</image>          
+         </images>
+      <poi_id>г. Воронеж, Дорожная 125</poi_id>      
+        </car>
     </cars>
 </data>
