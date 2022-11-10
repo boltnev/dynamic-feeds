@@ -52,7 +52,7 @@
          <currency>RUB</currency>  
       <unique_id>b7027f76133fddda985dc132df21e765b7027f76133fddda985dc132df212</unique_id>
       <url>https://auto.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>
-      <description>Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!
+      <description>СПЕЦИАЛЬНЫЕ ПРЕДЛОЖЕНИЯ НА МОДЕЛЬНЫЙ РЯД NISSAN! ЗВОНИТЕ НАМ ИЛИ ОСТАВЬТЕ ЗАЯВКУ НА НАШЕМ САЙТЕ, И МЫ СВЯЖЕМСЯ С ВАМИ В БЛИЖАЙШЕЕ ВРЕМЯ!
          </description>     
       <images>
            <image>https://upload.wikimedia.org/wikipedia/commons/6/60/OpenEuphoria_mascot_200px.png</image>          
@@ -60,8 +60,8 @@
       <poi_id>г. Воронеж, Дорожная 125</poi_id>      
         </car>
              <car>
-      <mark_id>Nissan</mark_id>
-      <folder_id>Qashqai, II</folder_id>      
+      <mark_id>nissan</mark_id>
+      <folder_id>qashqai</folder_id>      
       <body_type>Внедорожник</body_type>       
       <color>серый</color>      
       <availability>в наличии</availability>      
@@ -71,8 +71,7 @@
          <currency>RUB</currency>  
       <unique_id>b7027f76133fddda985dc132df21e765b7027f76133fddda985dc132df444</unique_id>
       <url>https://drive2.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>
-      <description>Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!
-         </description>     
+      <description>специальные предложения на модельный ряд nissan! звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!</description>     
       <images>
            <image>https://upload.wikimedia.org/wikipedia/commons/6/60/OpenEuphoria_mascot_200px.png</image>          
          </images>
