@@ -45,7 +45,7 @@
           <car>
       <mark_id>Nissan</mark_id>
       <folder_id>Qashqai, II</folder_id>      
-      <body_type>Внедорожник</body_type>       
+      <body_type>Пепелац</body_type>       
       <color>серый</color>      
       <availability>в наличии</availability>      
       <owners_number>Новый</owners_number>
@@ -64,7 +64,7 @@
              <car>
       <mark_id>nissan</mark_id>
       <folder_id>qashqai</folder_id>      
-      <body_type>Внедорожник</body_type>       
+      <body_type>Джип</body_type>       
       <color>серый</color>      
       <availability>в наличии</availability>      
       <owners_number>Новый</owners_number>
