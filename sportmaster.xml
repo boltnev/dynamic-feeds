@@ -8,7 +8,7 @@
       <g:brand>VauDe</g:brand>
       <g:item_group_id>22820640300</g:item_group_id>
       <g:description>Удобный и легкий рюкзак для трекинга с регулируемой спиной и передним доступом VauDe Asymmetric 42+8. ЛЕГКОСТЬ: Рюкзак весит 1475 гр. ФУНКЦИОНАЛЬНОСТЬ: Дополнительный фронтальный доступ в рюкзак позволяет без труда добраться до нужных вещей. ДОПОЛНИТЕЛЬНЫЙ ОБЪЕМ: Предусмотрено 2 наружных сетчатых кармана.</g:description>
-      <g:id>176688400299</g:id>
+      <g:id>1</g:id>
       <g:price>18199 RUB</g:price>
       <g:title>Рюкзак VauDe Asymmetric 42+8 л</g:title>
       <g:image_link>https://cdn.sptmr.ru/upload/iblock/862/48900510299.jpg</g:image_link>      
@@ -34,7 +34,7 @@
       <g:brand>Skechers</g:brand>
       <g:item_group_id>25947980299</g:item_group_id>
       <g:description>Универсальные кроссовки Go Train — отличный вариант для тех, кто ценит стиль и практичность. КОМФОРТ: Перфорированная стелька Air Cooled Goga Mat Ortholite обеспечивает комфорт во время ходьбы. АМОРТИЗАЦИЯ: Подошва из амортизирующего материала ULTRA GO эффективно поглощает ударные нагрузки и быстро восстанавливает форму после деформации. СЦЕПЛЕНИЕ С ПОВЕРХНОСТЬЮ: Подметка выполнена из износостойкой резины, что гарантирует надежное сцепление на любых типах поверхностей.</g:description>
-      <g:id>187381190299</g:id>
+      <g:id>2</g:id>
       <g:price>7299 RUB</g:price>
       <g:sale_price>4744 RUB</g:sale_price>
       <g:title>Кроссовки мужские Skechers Go Train Move</g:title>
@@ -57,6 +57,113 @@
 	  <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
 	  <g:ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int</g:ios_tracking_url>
     </item>
-
+       <item>
+      <g:brand>Skechers</g:brand>
+      <g:item_group_id>25947980299</g:item_group_id>
+      <g:description>Универсальные кроссовки Go Train — отличный вариант для тех, кто ценит стиль и практичность. КОМФОРТ: Перфорированная стелька Air Cooled Goga Mat Ortholite обеспечивает комфорт во время ходьбы. АМОРТИЗАЦИЯ: Подошва из амортизирующего материала ULTRA GO эффективно поглощает ударные нагрузки и быстро восстанавливает форму после деформации. СЦЕПЛЕНИЕ С ПОВЕРХНОСТЬЮ: Подметка выполнена из износостойкой резины, что гарантирует надежное сцепление на любых типах поверхностей.</g:description>
+      <g:id>3</g:id>
+      <g:price>7299 RUB</g:price>
+      <g:sale_price>4744 RUB</g:sale_price>
+      <g:title>Кроссовки мужские Skechers Go Train Move</g:title>
+      <g:image_link>https://cdn.sptmr.ru/upload/iblock/761/62481980299.jpg</g:image_link>      
+      <g:link>https://www.sportmaster.ru/product/25947980299/</g:link>
+      <g:product_type>Мужская обувь > Кроссовки</g:product_type>
+      <g:custom_label_0>male</g:custom_label_0>
+	  <g:custom_label_1>adult</g:custom_label_1>
+	  <g:custom_label_2>35</g:custom_label_2>
+	  <g:custom_label_3>Весна-лето</g:custom_label_3>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:color>Белый</g:color>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:size>45</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      
+      <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
+	  <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
+	  <g:ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int</g:ios_tracking_url>
+    </item>
+	     <item>
+      <g:brand>Skechers</g:brand>
+      <g:item_group_id>25947980299</g:item_group_id>
+      <g:description>Универсальные кроссовки Go Train — отличный вариант для тех, кто ценит стиль и практичность. КОМФОРТ: Перфорированная стелька Air Cooled Goga Mat Ortholite обеспечивает комфорт во время ходьбы. АМОРТИЗАЦИЯ: Подошва из амортизирующего материала ULTRA GO эффективно поглощает ударные нагрузки и быстро восстанавливает форму после деформации. СЦЕПЛЕНИЕ С ПОВЕРХНОСТЬЮ: Подметка выполнена из износостойкой резины, что гарантирует надежное сцепление на любых типах поверхностей.</g:description>
+      <g:id>4</g:id>
+      <g:price>7299 RUB</g:price>
+      <g:sale_price>4744 RUB</g:sale_price>
+      <g:title>Кроссовки мужские Skechers Go Train Move</g:title>
+      <g:image_link>https://cdn.sptmr.ru/upload/iblock/761/62481980299.jpg</g:image_link>      
+      <g:link>https://www.sportmaster.ru/product/25947980299/</g:link>
+      <g:product_type>Мужская обувь > Кроссовки</g:product_type>
+      <g:custom_label_0>male</g:custom_label_0>
+	  <g:custom_label_1>adult</g:custom_label_1>
+	  <g:custom_label_2>35</g:custom_label_2>
+	  <g:custom_label_3>Весна-лето</g:custom_label_3>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:color>Белый</g:color>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:size>45</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      
+      <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
+	  <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
+	  <g:ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int</g:ios_tracking_url>
+    </item>
+	     <item>
+      <g:brand>Skechers</g:brand>
+      <g:item_group_id>25947980299</g:item_group_id>
+      <g:description>Универсальные кроссовки Go Train — отличный вариант для тех, кто ценит стиль и практичность. КОМФОРТ: Перфорированная стелька Air Cooled Goga Mat Ortholite обеспечивает комфорт во время ходьбы. АМОРТИЗАЦИЯ: Подошва из амортизирующего материала ULTRA GO эффективно поглощает ударные нагрузки и быстро восстанавливает форму после деформации. СЦЕПЛЕНИЕ С ПОВЕРХНОСТЬЮ: Подметка выполнена из износостойкой резины, что гарантирует надежное сцепление на любых типах поверхностей.</g:description>
+      <g:id>5</g:id>
+      <g:price>7299 RUB</g:price>
+      <g:sale_price>4744 RUB</g:sale_price>
+      <g:title>Кроссовки мужские Skechers Go Train Move</g:title>
+      <g:image_link>https://cdn.sptmr.ru/upload/iblock/761/62481980299.jpg</g:image_link>      
+      <g:link>https://www.sportmaster.ru/product/25947980299/</g:link>
+      <g:product_type>Мужская обувь > Кроссовки</g:product_type>
+      <g:custom_label_0>male</g:custom_label_0>
+	  <g:custom_label_1>adult</g:custom_label_1>
+	  <g:custom_label_2>35</g:custom_label_2>
+	  <g:custom_label_3>Весна-лето</g:custom_label_3>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:color>Белый</g:color>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:size>45</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      
+      <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
+	  <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
+	  <g:ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int</g:ios_tracking_url>
+    </item>
+	     <item>
+      <g:brand>Skechers</g:brand>
+      <g:item_group_id>25947980299</g:item_group_id>
+      <g:description>Универсальные кроссовки Go Train — отличный вариант для тех, кто ценит стиль и практичность. КОМФОРТ: Перфорированная стелька Air Cooled Goga Mat Ortholite обеспечивает комфорт во время ходьбы. АМОРТИЗАЦИЯ: Подошва из амортизирующего материала ULTRA GO эффективно поглощает ударные нагрузки и быстро восстанавливает форму после деформации. СЦЕПЛЕНИЕ С ПОВЕРХНОСТЬЮ: Подметка выполнена из износостойкой резины, что гарантирует надежное сцепление на любых типах поверхностей.</g:description>
+      <g:id>6</g:id>
+      <g:price>7299 RUB</g:price>
+      <g:sale_price>4744 RUB</g:sale_price>
+      <g:title>Кроссовки мужские Skechers Go Train Move</g:title>
+      <g:image_link>https://cdn.sptmr.ru/upload/iblock/761/62481980299.jpg</g:image_link>      
+      <g:link>https://www.sportmaster.ru/product/25947980299/</g:link>
+      <g:product_type>Мужская обувь > Кроссовки</g:product_type>
+      <g:custom_label_0>male</g:custom_label_0>
+	  <g:custom_label_1>adult</g:custom_label_1>
+	  <g:custom_label_2>35</g:custom_label_2>
+	  <g:custom_label_3>Весна-лето</g:custom_label_3>
+      <g:identifier_exists>yes</g:identifier_exists>
+      <g:color>Белый</g:color>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:size>45</g:size>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      
+      <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
+	  <g:android_tracking_url>https://app.appsflyer.com/ru.sportmaster.app?pid=mail.ru_int</g:android_tracking_url>
+	  <g:ios_tracking_url>https://app.appsflyer.com/1081336048?pid=mail.ru_int</g:ios_tracking_url>
+    </item>
   </channel>
 </rss>
