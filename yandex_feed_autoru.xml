@@ -63,6 +63,8 @@
       <poi_id>г. Воронеж, Дорожная 125</poi_id>   
                <android_url>autoru://product?article=100001 </android_url>
             <ios_url>autorus://product?article=100001 </ios_url>
+              <ios_tracking_url>://redirect.rambler.yandex.com/serve/745367083243574645</ios_tracking_url>
+                 <android_tracking_url>://redirect.rambler.yandex.com/serve/745367083243574645</android_tracking_url>
         </car>
              <car>
       <mark_id>nissan</mark_id>
@@ -83,6 +85,8 @@
       <poi_id>г. Воронеж, Дорожная 125</poi_id> 
            <android_url>://product?article=100001 </android_url>
             <ios_url>://product?article=100001 </ios_url>
+                 <ios_tracking_url>://redirect.appmetrica.yandex.com/serve/745367083243574645</ios_tracking_url>
+                 <android_tracking_url>://redirect.appmetrica.yandex.com/serve/745367083243574645</android_tracking_url>
         </car>
     </cars>
 </data>
