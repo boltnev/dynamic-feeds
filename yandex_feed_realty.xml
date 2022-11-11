@@ -45,26 +45,9 @@
       <type>аренда</type>
       <property-type>жилая</property-type>
       <category>комната</category>
-      <creation-date>2010-11-13T12:32:45+04:00</creation-date>
-      <location>
-<!--          <country>Россия</country> -->
-<!--          <region>Ленинградская область</region> -->
-         <district>Выборгский район</district>
-         <locality-name>Выборг</locality-name>
-<!--          <address>Cторожевой башни, 2</address> -->
-         <apartment>16</apartment>
-      </location>
-      <sales-agent>
-         <phone>+79104565459</phone>
-         <category>владелец</category>
-      </sales-agent>
-<!--       <image>https://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</image> -->
-<!--       <url>https://realty.ya.ru/moskva_i_moskovskaya_oblast/kupit/novostrojka/molzhaninovo-2890148/</url> -->
-<!--       <price>
-         <value>15000</value>
-         <currency>RUR</currency>
-         <period>месяц</period>
-      </price> -->
+      <creation-date>2010-11-13T12:32:45+04:00</creation-date>   
+      
+
       <rent-pledge>да</rent-pledge>
       <area>
          <value>140</value>
