@@ -34,9 +34,10 @@
          <value>56</value>
          <unit>кв. м</unit>
       </area>
-      <rooms>1</rooms>
+      <rooms>1.5</rooms>
       <rooms-offered>1</rooms-offered>
-      <floor>12</floor>
+      <floor>12.5</floor>
+      <floors>12.5</floors>
       <yandex-building-id>12345</yandex-building-id>
       <yandex-house-id>54321</yandex-house-id>
    </offer>
@@ -62,8 +63,8 @@
          <value>4000000</value>
          <currency>RUR</currency>
       </price>
-      <url>://realty.ya.ru/moskva_i_moskovskaya_oblast/kupit/novostrojka/molzhaninovo-2890148/</url>
-      <image>://upload.wikimedia.org/wikipedia/commons/6/60/OpenEuphoria_mascot_200px.png</image>
+      <url>:https://realty.ya.ru/moskva_i_moskovskaya_oblast/kupit/novostrojka/molzhaninovo-2890148/</url>
+      <image>https://upload.wikimedia.org/wikipedia/commons/6/60/OpenEuphoria_mascot_200px.png</image>
       <area>
          <value>56</value>
          <unit>кв. м</unit>
