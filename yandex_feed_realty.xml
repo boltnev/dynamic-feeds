@@ -10,6 +10,7 @@
       <creation-date>2010-11-13T12:32:45+04:00</creation-date>
       <location>
          <country>Россия</country>
+         <region>Москва</region>
          <locality-name>Москва</locality-name>
          <address>Яузская улица, 27</address>
          <apartment>135</apartment>
@@ -91,6 +92,7 @@
          <country>Россия</country>
          <region>Московская область</region>
          <locality-name>Протвино</locality-name>
+         <address>Лавочкина</address>
       </location>
       <sales-agent>
          <category>agency</category>
