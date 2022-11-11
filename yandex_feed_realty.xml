@@ -17,7 +17,8 @@
             <time-on-foot>fgdgd</time-on-foot>
             <time-on-transport>dgdfgfdg</time-on-transport>
          </metro>
-      </location>     
+      </location>   
+      <custom_label_0>Распродажа</custom_label_0>
       <price>
          <value>4000000</value>
          <currency>RUR</currency>
@@ -76,5 +77,6 @@
             <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</android_tracking_url>
             <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</ios_tracking_url>
       <description>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT </description>
+      <custom_label_0>ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg</custom_label_0>
  </offer>   
 </realty-feed>
