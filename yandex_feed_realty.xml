@@ -5,9 +5,7 @@
    <offer internal-id="12">
       <type>продажа</type>
       <property-type>жилая</property-type>
-      <category>квартира</category>
-      <deal-status>первичная продажа вторички</deal-status>
-      <creation-date>2010-11-13T12:32:45+04:00</creation-date>
+      <category>квартира</category>      
       <location>
          <country>Россия</country>
          <region>Москва</region>
@@ -19,11 +17,7 @@
             <time-on-foot>10</time-on-foot>
             <time-on-transport>5</time-on-transport>
          </metro>
-      </location>
-      <sales-agent>
-         <category>agency</category>
-         <phone>+74951234567</phone>
-      </sales-agent>
+      </location>     
       <price>
          <value>4000000</value>
          <currency>RUR</currency>
@@ -34,11 +28,8 @@
          <value>56</value>
          <unit>кв. м</unit>
       </area>
-      <rooms>1.5</rooms>
-      <rooms-offered>1</rooms-offered>
+      <rooms>1.5</rooms>      
       <floor>12.5</floor>
-      <floors>12.5</floors>
-      <yandex-building-id>12345</yandex-building-id>
-      <yandex-house-id>54321</yandex-house-id>
+      <floors>12.5</floors>      
    </offer>   
 </realty-feed>
