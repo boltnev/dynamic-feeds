@@ -24,7 +24,7 @@
       <g:size>Без размера</g:size>
       <g:gender>unisex</g:gender>
       <g:age_group>adult</g:age_group>
-      <g:mobile_android_app_link>myapp://product?article=100001 </g:mobile_ios_app_link>
+      <g:mobile_android_app_link>myapp://product?article=100001 </g:mobile_android_app_link>
 	<g:mobile_ios_app_link>myapp://product?article=100001 </g:mobile_ios_app_link>		
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
 	  <g:android_app_link>ru.sportmaster.app</g:android_app_link>
@@ -53,7 +53,7 @@
       <g:size>45</g:size>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-	     <g:mobile_android_app_link>myapp://product?article=100001 </g:mobile_ios_app_link>
+	     <g:mobile_android_app_link>myapp://product?article=100001 </g:mobile_android_app_link>
 	<g:mobile_ios_app_link>myapp://product?article=100001 </g:mobile_ios_app_link>	
       
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
@@ -82,7 +82,7 @@
       <g:size>45</g:size>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-	        <g:mobile_android_app_link>myapp://product?article=100001 </g:mobile_ios_app_link>
+	        <g:mobile_android_app_link>myapp://product?article=100001 </g:mobile_android_app_link>
 	<g:mobile_ios_app_link>myapp://product?article=100001 </g:mobile_ios_app_link>	
       
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
@@ -111,7 +111,7 @@
       <g:size>45</g:size>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-		      <g:mobile_android_app_link>myapp://product?article=100001 </g:mobile_ios_app_link>
+		      <g:mobile_android_app_link>myapp://product?article=100001 </g:mobile_android_app_link>
 	<g:mobile_ios_app_link>myapp://product?article=100001 </g:mobile_ios_app_link>	
       
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
@@ -140,7 +140,7 @@
       <g:size>45</g:size>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
-		      <g:mobile_android_app_link>myapp://product?article=100001 </g:mobile_ios_app_link>
+		      <g:mobile_android_app_link>myapp://product?article=100001 </g:mobile_android_app_link>
 	<g:mobile_ios_app_link>myapp://product?article=100001 </g:mobile_ios_app_link>	
       
       <g:mobile_ios_app_store_id>1081336048</g:mobile_ios_app_store_id>
