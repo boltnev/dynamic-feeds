@@ -29,6 +29,7 @@
     </location>   
     <exterior_color>White</exterior_color>
     <state_of_vehicle>New</state_of_vehicle>
+    <vehicle_type>car_truck</vehicle_type>
       </item>
 	  <item>
     <id>1</id>
