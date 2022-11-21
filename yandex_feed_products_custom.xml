@@ -24,15 +24,13 @@
             <description>Вот уже тридцать лет мои дни скучны и однообразны. Нет подруг, нет близких. И вдруг моя жизнь в одночасье изменилась. Судьба подарила мне подругу – Катю! Но... спустя день ее похитили. Неизвестные требовали документы, которые хранились у какого-то.</description>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
-            <model>LS-H0561AL</model>
+            <model>lS-H0561AL</model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</ios_tracking_url>
+            <ios_app_store_id>100500</ios_app_store_id>            
         </offer>
-        <offer id="" available="true" type="vendor.model">
+        <offer id="2" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
             <price>30203</price>
             <oldprice>11000</oldprice>
@@ -44,13 +42,11 @@
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
-            <model>LS-H0893</model>
+            <model>lS-H0893</model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd</ios_tracking_url>
+            <ios_app_store_id>100500</ios_app_store_id>            
         </offer>
         <offer id="3" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
@@ -64,13 +60,11 @@
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
-            <model>LS-H0893</model>
+            <model>lS-H0893</model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
+            <ios_app_store_id>100500</ios_app_store_id>            
         </offer>
         <offer id="4" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
@@ -84,13 +78,11 @@
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
-            <model>LS-H0893</model>
+            <model>lS-H0893</model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
+            <ios_app_store_id>100500</ios_app_store_id>            
         </offer>
         <offer id="5" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
@@ -104,13 +96,11 @@
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
-            <model>LS-H0893</model>
+            <model>lS-H0893</model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
+            <ios_app_store_id>100500</ios_app_store_id>            
         </offer>
         <offer id="6" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
@@ -124,13 +114,11 @@
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
-            <model>LS-H0893</model>
+            <model>lS-H0893</model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
+            <ios_app_store_id>100500</ios_app_store_id>            
         </offer>
         <offer id="7" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
@@ -144,13 +132,11 @@
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
-            <model>LS-H0893</model>
+            <model>lS-H0893</model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
+            <ios_app_store_id>100500</ios_app_store_id>            
         </offer>
         <offer id="8" available="true" type="vendor.model">
             <url>https://www.example.com/cond/model-ls-h0893</url>
@@ -164,13 +150,11 @@
             <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
             <typePrefix>Кондиционер</typePrefix>
             <vendor>LG</vendor>
-            <model>LS-H0893</model>
+            <model>lS-H0893</model>
             <android_url>myapp://product?article=100001 </android_url>
             <ios_url>myapp://product?article=100001 </ios_url>
             <bundle_id>ru.myapp.myapp</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
-            <android_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </android_tracking_url>
-            <ios_tracking_url>https://abc.adj.st/adjust_t=dsfdsfsd&amp;deep_link=app%3A%2F%2Fpath%2Fto%2Fproduct </ios_tracking_url>
+            <ios_app_store_id>100500</ios_app_store_id>            
         </offer>
     </offers>
 </shop>
