@@ -17,6 +17,17 @@
             <time-on-foot>10</time-on-foot>
             <time-on-transport>5</time-on-transport>
          </metro>
+         <metro>
+            <name>Таганская</name>
+            <time-on-foot>10</time-on-foot>
+            <time-on-transport>5</time-on-transport>
+         </metro>
+         <metro>
+            <name>Марксистская</name>
+            <time-on-foot>10</time-on-foot>
+            <time-on-transport>5</time-on-transport>
+         </metro>
+         
       </location>     
       <price>
          <value>4000000</value>
