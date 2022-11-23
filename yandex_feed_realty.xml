@@ -28,7 +28,11 @@
             <time-on-transport>5</time-on-transport>
          </metro>
          
-      </location>     
+      </location>   
+      <custom_label_0>Распродажа</custom_label_0>
+       <custom_label_1>Скидки</custom_label_1>
+       <custom_label_2>Последние квартиры</custom_label_2>
+       <custom_label_3>Льготная ипотека</custom_label_3>
       <price>
          <value>4000000</value>
          <currency>RUR</currency>
