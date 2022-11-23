@@ -28,9 +28,9 @@
          <value>56</value>
          <unit>кв. м</unit>
       </area>
-      <rooms>1.5</rooms>      
-      <floor>12.5</floor>
-      <floors>12.5</floors>      
+      <rooms>2</rooms>      
+      <floor>12</floor>
+      <floors>12</floors>      
       <description>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUD EXERCITATION ULLAMCO LABORIS NISI UT ALIQUIP EX EA COMMODO CONSEQUAT. DUIS AUTE IRURE DOLOR IN REPREHENDERIT IN VOLUPTATE VELIT ESSE CILLUM DOLORE EU FUGIAT NULLA PARIATUR. EXCEPTEUR SINT OCCAECAT CUPIDATAT NON PROIDENT, SUNT IN CULPA QUI OFFICIA DESERUNT MOLLIT ANIM ID EST LABORUM. </description>
       </offer>   
 </realty-feed>
