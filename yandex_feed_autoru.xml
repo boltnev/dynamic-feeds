@@ -42,6 +42,10 @@
          </images>
       <poi_id>г. Воронеж, Дорожная 125</poi_id>     
               <run>500,000.00</run>
+              <custom_label_0>распродажа</custom_label_0>
+              <custom_label_1>новая коллекция</custom_label_1>
+              <custom_label_2>новое поступление</custom_label_2>
+              <custom_label_3>новая модель</custom_label_3>
         </car>
           <car>
       <mark_id>Nissan</mark_id>
