@@ -31,6 +31,8 @@
 	<area_unit>sq_m</area_unit>
 	    <floor>24</floor>
 	    <floors>26</floors>
+	  <android_url>cian://item/1</android_url>
+	    <ios_url>cian://item/1</ios_url>
     </item>
 	  <item>
         <id>1</id>
@@ -59,6 +61,8 @@
 	<area_unit>sq_m</area_unit>
 		  <floor>24</floor>
 	    <floors>26</floors>
+		  <android_url>cian://item/2</android_url>
+	    <ios_url>cian://item/2</ios_url>
     </item>
 	  <item>
         <id>2</id>
@@ -86,6 +90,8 @@
 	<area_unit>sq_m</area_unit>
 		  <floor>24</floor>
 	    <floors>26</floors>
+		  <android_url>cian://item/3</android_url>
+	    <ios_url>cian://item/3</ios_url>
     </item>
 	  <item>
         <id>3</id>
@@ -113,6 +119,8 @@
 	<area_unit>sq_m</area_unit>
 		  <floor>24</floor>
 	    <floors>26</floors>
+		  <android_url>cian://item/4</android_url>
+	    <ios_url>cian://item/4</ios_url>
     </item>
 	  <item>
         <id>4</id>
