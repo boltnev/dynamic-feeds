@@ -14,13 +14,12 @@
   <name>Антивирус ESET NOD32 Platinum Edition</name> 
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
-  <url>http://www.надежнаятехника.рф/catalog/element/index.php</url>
+  <url>http://mail.ru</url>
   <price>1620.00</price>
   <oldprice>1800.00</oldprice>
   <currencyId>RUB</currencyId>
   <categoryId>10</categoryId>
-  <picture>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</picture>
-  <picture>http://89.123.45.678/catalog/photo/19/7.JPG</picture>
+  <picture>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</picture>  
   <store>false</store>
   <pickup>true</pickup>
   <delivery>false</delivery>
@@ -35,13 +34,12 @@
   <name>Антивирус ESET NOD32 Platinum Edition</name>  
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
-  <url>http://www.надежнаятехника.рф/catalog/element/index.php</url>
+  <url>http://mail.ru</url>
   <price>1620.00</price>
   <oldprice>1800.00</oldprice>
   <currencyId>RUB</currencyId>
   <categoryId>10</categoryId>
-  <picture>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</picture>
-  <picture>http://89.123.45.678/catalog/photo/19/7.JPG</picture>
+  <picture>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</picture>  
   <store>false</store>
   <pickup>true</pickup>
   <delivery>false</delivery>
@@ -51,91 +49,9 @@
   <age unit="year">18</age>
   <android_tracking_url>https://app.appsflyer.com/ru.sokolov.android?af_dp=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
   <ios_tracking_url>https://app.appsflyer.com/id1501705341?af_dp%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
+  <android_url>sokolov://product/1</android_url>
+  <ios_url>sokolov://product/1</ios_url>
 </offer>
-<offer id="0123452" available="true">
-  <name>Антивирус ESET NOD32 Platinum Edition</name>
-  <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
-  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
-  <url>http://www.надежнаятехника.рф/catalog/element/index.php</url>
-  <price>1620.00</price>
-  <oldprice>1800.00</oldprice>
-  <currencyId>RUB</currencyId>
-  <categoryId>10</categoryId>
-  <picture>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</picture>
-  <picture>http://89.123.45.678/catalog/photo/19/7.JPG</picture>
-  <store>false</store>
-  <pickup>true</pickup>
-  <delivery>false</delivery>
-  <sales_notes>Оплата: Наличные, Б/Н, пластиковые карты, кредит</sales_notes>
-<manufacturer_warranty>true</manufacturer_warranty>
-<country_of_origin>Россия</country_of_origin>
-<age unit="year">18</age>
-  <android_tracking_url>https://app.appsflyer.com/ru.sokolov.android?af_dp=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
-  <ios_tracking_url>https://app.appsflyer.com/id1501705341?af_dp%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
-</offer>
-<offer id="0123453" available="true">
-  <name>Антивирус ESET NOD32 Platinum Edition</name>
-  <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
-  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
-  <url>http://www.надежнаятехника.рф/catalog/element/index.php</url>
-  <price>1620.00</price>
-  <oldprice>1800.00</oldprice>
-  <currencyId>RUB</currencyId>
-  <categoryId>10</categoryId>
-  <picture>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</picture>
-  <picture>http://89.123.45.678/catalog/photo/19/7.JPG</picture>
-  <store>false</store>
-  <pickup>true</pickup>
-  <delivery>false</delivery>
-  <sales_notes>Оплата: Наличные, Б/Н, пластиковые карты, кредит</sales_notes>
-  <manufacturer_warranty>true</manufacturer_warranty>
-  <country_of_origin>Россия</country_of_origin>
-  <age unit="year">18</age>
-  <android_tracking_url>https://app.appsflyer.com/ru.sokolov.android?af_dp=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
-  <ios_tracking_url>https://app.appsflyer.com/id1501705341?af_dp%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
-</offer>
-<offer id="0123454" available="true">
-<name>Антивирус ESET NOD32 Platinum Edition</name>
-  <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
-  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
-  <url>http://www.надежнаятехника.рф/catalog/element/index.php</url>
-  <price>1620.00</price>
-  <oldprice>1800.00</oldprice>
-  <currencyId>RUB</currencyId>
-  <categoryId>10</categoryId>
-  <picture>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</picture>
-  <picture>http://89.123.45.678/catalog/photo/19/7.JPG</picture>
-  <store>false</store>
-  <pickup>true</pickup>
-  <delivery>false</delivery>
-  <sales_notes>Оплата: Наличные, Б/Н, пластиковые карты, кредит</sales_notes>
-  <manufacturer_warranty>true</manufacturer_warranty>
-  <country_of_origin>Россия</country_of_origin>
-  <age unit="year">18</age>
-  <android_tracking_url>https://app.appsflyer.com/ru.sokolov.android?af_dp=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
-  <ios_tracking_url>https://app.appsflyer.com/id1501705341?af_dp%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
-</offer>
-<offer id="0123455" available="true">
-<name>Антивирус ESET NOD32 Platinum Edition</name>
-  <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
-  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
-  <url>http://www.надежнаятехника.рф/catalog/element/index.php</url>
-  <price>1620.00</price>
-  <oldprice>1800.00</oldprice>
-  <currencyId>RUB</currencyId>
-  <categoryId>10</categoryId>
-  <picture>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</picture>
-  <picture>http://89.123.45.678/catalog/photo/19/7.JPG</picture>
-  <store>false</store>
-  <pickup>true</pickup>
-  <delivery>false</delivery>
-  <sales_notes>Оплата: Наличные, Б/Н, пластиковые карты, кредит</sales_notes>
-  <manufacturer_warranty>true</manufacturer_warranty>
-  <country_of_origin>Россия</country_of_origin>
-  <age unit="year">18</age>
-  <android_tracking_url>https://app.appsflyer.com/ru.sokolov.android?af_dp=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
-  <ios_tracking_url>https://app.appsflyer.com/id1501705341?af_dp%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
-  </offer>
 </offers>
 </shop>
 </yml_catalog>
