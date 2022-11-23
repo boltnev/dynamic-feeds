@@ -51,6 +51,8 @@
   <ios_tracking_url>https://app.appsflyer.com/id1501705341?af_dp%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
   <android_url>sokolov://product/1</android_url>
   <ios_url>sokolov://product/1</ios_url>
+  <bundle_id>ru.sokolov.android</bundle_id>
+  <ios_app_store_id>100500500</ios_app_store_id>
 </offer>
 </offers>
 </shop>
