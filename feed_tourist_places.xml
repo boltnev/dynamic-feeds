@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listings>
+    <title>My Destination Feed</title>
+    <link rel="self" href="http://www.example.com"/>
+    <listing>
+        <destination_id>1</destination_id>
+        <name>The best destination</name>
+        <description>My destination is the best.</description>
+        <address>Дубравная д.3</address>
+        <locality>пос. Железнодорожный </locality>
+        <region>Красногвардейская область</region>
+        <country>Россия </country>        
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>            
+        </image>        
+        <type>city</type>
+        <type>culture</type>
+        <price>199.99 USD</price>
+        <price_change>-20</price_change>
+        <url>http://www.thebestdestination.com</url>
+        <applink property="ios_url" content="example-ios://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example-android://travelapp" />
+        <applink property="android_package" content="com.travelapp" />        
+    </listing>
+    <listing>
+        <destination_id>2</destination_id>
+        <name>The best destination</name>
+        <description>My destination is the best.</description>
+        <address>Дубравная д.3</address>
+        <locality>пос. Железнодорожный </locality>
+        <region>Красногвардейская область</region>
+        <country>Россия </country>        
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>            
+        </image>        
+        <type>city</type>
+        <type>culture</type>
+        <price>199.99 USD</price>
+        <price_change>-20</price_change>
+        <url>http://www.thebestdestination.com</url>
+        <applink property="ios_url" content="example-ios://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example-android://travelapp" />
+        <applink property="android_package" content="com.travelapp" />        
+    </listing>
+    <listing>
+        <destination_id>3</destination_id>
+        <name>The best destination</name>
+        <description>My destination is the best.</description>
+        <address>Дубравная д.3</address>
+        <locality>пос. Железнодорожный </locality>
+        <region>Красногвардейская область</region>
+        <country>Россия </country>        
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>            
+        </image>        
+        <type>city</type>
+        <type>culture</type>
+        <price>199.99 USD</price>
+        <price_change>-20</price_change>
+        <url>http://www.thebestdestination.com</url>
+        <applink property="ios_url" content="example-ios://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example-android://travelapp" />
+        <applink property="android_package" content="com.travelapp" />        
+    </listing>
+    <listing>
+        <destination_id>4</destination_id>
+        <name>The best destination</name>
+        <description>My destination is the best.</description>
+        <address>Дубравная д.3</address>
+        <locality>пос. Железнодорожный </locality>
+        <region>Красногвардейская область</region>
+        <country>Россия </country>        
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>            
+        </image>        
+        <type>city</type>
+        <type>culture</type>
+        <price>199.99 USD</price>
+        <price_change>-20</price_change>
+        <url>http://www.thebestdestination.com</url>
+        <applink property="ios_url" content="example-ios://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example-android://travelapp" />
+        <applink property="android_package" content="com.travelapp" />        
+    </listing>
+    <listing>
+        <destination_id>5</destination_id>
+        <name>The best destination</name>
+        <description>My destination is the best.</description>
+        <address>Дубравная д.3</address>
+        <locality>пос. Железнодорожный </locality>
+        <region>Красногвардейская область</region>
+        <country>Россия </country>        
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>            
+        </image>        
+        <type>city</type>
+        <type>culture</type>
+        <price>199.99 USD</price>
+        <price_change>-20</price_change>
+        <url>http://www.thebestdestination.com</url>
+        <applink property="ios_url" content="example-ios://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example-android://travelapp" />
+        <applink property="android_package" content="com.travelapp" />        
+    </listing>
+    <listing>
+        <destination_id>6</destination_id>
+        <name>The best destination</name>
+        <description>My destination is the best.</description>
+        <address>Дубравная д.3</address>
+        <locality>пос. Железнодорожный </locality>
+        <region>Красногвардейская область</region>
+        <country>Россия </country>        
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>            
+        </image>        
+        <type>city</type>
+        <type>culture</type>
+        <price>199.99 USD</price>
+        <price_change>-20</price_change>
+        <url>http://www.thebestdestination.com</url>
+        <applink property="ios_url" content="example-ios://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example-android://travelapp" />
+        <applink property="android_package" content="com.travelapp" />        
+    </listing>
+</listings>
