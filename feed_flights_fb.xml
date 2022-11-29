@@ -18,6 +18,10 @@
         </image>
         <price>100.00 USD</price>
         <description>Best Flight</description>
+        <applink property="ios_url" content="example-ios://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example-android://travelapp" />
+        <applink property="android_package" content="com.travelapp" /> 
     </listing>
     <listing>
         <id>2</id>
@@ -35,6 +39,10 @@
         </image>
         <price>100.00 USD</price>
         <description>Best Flight</description>
+        <applink property="ios_url" content="example-ios://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example-android://travelapp" />
+        <applink property="android_package" content="com.travelapp" /> 
     </listing>
      <listing>
         <id>3</id>
@@ -52,6 +60,10 @@
         </image>
         <price>100.00 USD</price>
         <description>Best Flight</description>
+        <applink property="ios_url" content="example-ios://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example-android://travelapp" />
+        <applink property="android_package" content="com.travelapp" /> 
     </listing>
      <listing>
         <id>4</id>
@@ -69,6 +81,10 @@
         </image>
         <price>100.00 USD</price>
         <description>Best Flight</description>
+        <applink property="ios_url" content="example-ios://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example-android://travelapp" />
+        <applink property="android_package" content="com.travelapp" /> 
     </listing>
      <listing>
         <id>5</id>
@@ -86,6 +102,10 @@
         </image>
         <price>100.00 USD</price>
         <description>Best Flight</description>
+        <applink property="ios_url" content="example-ios://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example-android://travelapp" />
+        <applink property="android_package" content="com.travelapp" /> 
     </listing>
      <listing>
         <id>6</id>
@@ -103,5 +123,9 @@
         </image>
         <price>100.00 USD</price>
         <description>Best Flight</description>
+        <applink property="ios_url" content="example-ios://travelapp" />
+        <applink property="ios_app_store_id" content="42" />        
+        <applink property="android_url" content="example-android://travelapp" />
+        <applink property="android_package" content="com.travelapp" /> 
     </listing>
 </listings>
