@@ -4,8 +4,9 @@
         <car>
       <mark_id>Nissan</mark_id>
       <folder_id>Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!Специальные предложения на модельный ряд Nissan! Звоните нам или оставьте заявку на нашем сайте, и мы свяжем</folder_id>      
-<!--       <body_type>Внедорожник</body_type>        -->
-<!--       <color>серый</color>       -->
+      <oldprice>1500000</oldprice>
+      <min_price>10000000</min_price>
+      <max_price>17000000</max_price>
       <availability>в наличии</availability>      
       <owners_number>Новый</owners_number>
       <year>2017</year>
