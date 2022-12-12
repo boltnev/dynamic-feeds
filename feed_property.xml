@@ -52,6 +52,12 @@
 		<metro>
 	   	<name>Кремлевская </name>
             </metro>
+		<metro>
+	   	<name>Суконная слобода </name>
+            </metro>
+		<metro>
+	   	<name>Аметьево </name>
+            </metro>
         </location>
         <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
