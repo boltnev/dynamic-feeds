@@ -14,7 +14,10 @@
             <region>Республика Татарстан </region>
             <address>Рихарда Зорге 66Д </address> 
 	    <metro>
-	   дубравная
+	   	<name>Авиастроительная </name>
+            </metro>
+		<metro>
+	   	<name>Северный вокзал </name>
             </metro>
         </location>
         <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
@@ -45,7 +48,10 @@
             <country>Россия</country>
             <region>Республика Татарстан</region>
             <locality>Казань</locality>
-            <address>Рихарда Зорге 66Д </address>                
+            <address>Рихарда Зорге 66Д </address>
+		<metro>
+	   	<name>Кремлевская </name>
+            </metro>
         </location>
         <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
@@ -72,7 +78,10 @@
             <country>Россия</country>
             <region>Республика Татарстан</region>
             <locality>Казань</locality>
-            <address>Рихарда Зорге 66Д </address>                 
+            <address>Рихарда Зорге 66Д </address>
+	<metro>
+	   	<name>Проспект Победы </name>
+            </metro>
         </location>
         <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
@@ -100,7 +109,10 @@
             <country>Россия</country>
             <region>Республика Татарстан</region>
             <locality>Казань</locality>
-            <address>Рихарда Зорге 66Д </address>               
+            <address>Рихарда Зорге 66Д </address> 
+	<metro>
+	   	<name>Аметьево </name>
+            </metro>
         </location>
         <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
@@ -128,7 +140,11 @@
             <country>Россия</country>
             <region>Республика Татарстан</region>
             <locality>Казань</locality>
-            <address>Рихарда Зорге 66Д </address>                 
+            <address>Рихарда Зорге 66Д </address>     
+	<metro>
+	   	<name>Авиастроительная </name>
+            </metro>
+		
         </location>
         <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
         <additional_image_link>http://example.com/12345678-2.jpg</additional_image_link>             
