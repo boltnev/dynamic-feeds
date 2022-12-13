@@ -2,26 +2,26 @@
 <data>
     <cars>
         <car>
-      <mark_id>Nissan🥴</mark_id>
-      <folder_id>Специальные предложения на модельный ряд Nissan!🥴 </folder_id>
+      <mark_id>Nissan</mark_id>
+      <folder_id>Специальные предложения на модельный ряд Nissan!</folder_id>
           <oldprice>1500000</oldprice>
-      <min_price>10000000🥴</min_price>
-      <max_price>17000000🥴</max_price>
+      <min_price>10000000</min_price>
+      <max_price>17000000</max_price>
       <availability>в наличии</availability>      
       <owners_number>Новый</owners_number>
-      <year>2017🥴</year>
+      <year>2017</year>
       <price>1300000</price>    
       <currency>RUB</currency>   
       <vin>100500</vin>
       <unique_id>b7027f76133fddda985dc132df21e765b7027f76133fddda985dc132df21</unique_id>
       <url>https://auto.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>
-      <description>Специальные предложения на модельный ряд Nissan!🥴 </description>     
+      <description>Специальные предложения на модельный ряд Nissan! </description>     
       <images>
            <image>https://0.db-estate.cdn.pik-service.ru/layout/2022/07/12/10_mVw5VJRDio4HK5b.png</image>          
          </images>
-      <poi_id>г. Воронеж, Дорожная 125 🥴</poi_id>  
+      <poi_id>г. Воронеж, Дорожная 125 </poi_id>  
             <run>500.000.00</run>
-            <state>🥴</state>            
+            <state></state>            
         </car>   
           <car>
       <mark_id>Nissan</mark_id>
