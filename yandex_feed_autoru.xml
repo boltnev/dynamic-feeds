@@ -12,6 +12,7 @@
       <year>2017🥴</year>
       <price>1300000</price>    
       <currency>RUB</currency>   
+      <vin>100500</vin>
       <unique_id>b7027f76133fddda985dc132df21e765b7027f76133fddda985dc132df21</unique_id>
       <url>https://auto.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>
       <description>Специальные предложения на модельный ряд Nissan!🥴 </description>     
@@ -32,15 +33,14 @@
       <year></year>
       <price>1300000</price>    
         <currency>RUB</currency>   
-      <unique_id>b7027f76133fddda985dc132df21e765b7027f76133fddda985dc132df21e765b7027f76133fdd</unique_id>
+       <vin>500100</vin>     
       <url>https://auto.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>
       <description>Специальные предложения на модельный ряд Nissan!    </description>     
       <images>
            <image>https://cdn-icons-png.flaticon.com/512/108/108732.jpg</image>          
          </images>
       <poi_id>г. Воронеж, Дорожная 125</poi_id>     
-              <run>500</run>           
-              
+              <run>500</run>              
         </car>
           <car>
       <mark_id>Nissan</mark_id>
@@ -59,26 +59,7 @@
       <images>
            <image>https://upload.wikimedia.org/wikipedia/commons/6/60/OpenEuphoria_mascot_200px.png</image>          
          </images>
-      <poi_id>г. Воронеж, Дорожная 125</poi_id>   
-              
-        </car>
-             <car>
-      <mark_id>nissan</mark_id>
-      <folder_id>qashqai</folder_id>      
-      <body_type>Джип</body_type>       
-      <color>серый</color>      
-      <availability>в наличии</availability>      
-      <owners_number>Новый</owners_number>
-      <year>None</year>
-      <price>1300000</price>    
-         <currency>RUB</currency>  
-      <unique_id>b7027f76133fddda985dc132df21e765b7027f76133fddda985dc132df444</unique_id>
-      <url>https://drive2.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>
-      <description>специальные предложения на модельный ряд nissan! звоните нам или оставьте заявку на нашем сайте, и мы свяжемся с вами в ближайшее время!</description>     
-      <images>
-           <image>https://upload.wikimedia.org/wikipedia/commons/6/60/OpenEuphoria_mascot_200px.png</image>          
-         </images>
-      <poi_id>г. Воронеж, Дорожная 125</poi_id>            
-        </car>
+      <poi_id>г. Воронеж, Дорожная 125</poi_id>               
+        </car>    
     </cars>
 </data>
