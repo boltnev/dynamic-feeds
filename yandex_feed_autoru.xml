@@ -3,7 +3,8 @@
     <cars>
         <car>
       <mark_id>Nissan🥴</mark_id>
-      <folder_id>Специальные предложения на модельный ряд Nissan!🥴 <oldprice>1500000</oldprice>
+      <folder_id>Специальные предложения на модельный ряд Nissan!🥴 </folder_id>
+          <oldprice>1500000</oldprice>
       <min_price>10000000🥴</min_price>
       <max_price>17000000🥴</max_price>
       <availability>в наличии</availability>      
