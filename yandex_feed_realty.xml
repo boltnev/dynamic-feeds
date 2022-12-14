@@ -2,30 +2,30 @@
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
    <generation-date>2010-12-11T12:00:00+04:00</generation-date>
 
-   <offer internal-id="😬">
-      <type>продажа😬</type>
-      <property-type>жилая😬</property-type>
-      <category>квартира😬</category>      
+   <offer internal-id="0">
+      <type>продажа</type>
+      <property-type>жилая</property-type>
+      <category>квартира</category>      
       <location>
-         <country>Россия😬</country>
-         <region>Москва😬</region>
-         <locality-name>Москва😬</locality-name>
-         <address>Яузская улица, 27😬</address>
-         <apartment>135😬</apartment>
+         <country>Россия</country>
+         <region>Москва</region>
+         <locality-name>Москва</locality-name>
+         <address>Яузская улица, 27</address>
+         <apartment>135</apartment>
          <metro>
-            <name>Китай-город😬</name>            
+            <name>Китай-город</name>            
          </metro>
          <metro>
-            <name>Таганская😬</name>            
+            <name>Таганская</name>            
          </metro>
          <metro>
-            <name>Марксистская😬</name>            
+            <name>Марксистская</name>            
          </metro>         
       </location>   
-      <custom_label_0>Распродажа😬</custom_label_0>
-       <custom_label_1>Скидки😬</custom_label_1>
-       <custom_label_2>Последние квартиры😬</custom_label_2>
-       <custom_label_3>Льготная ипотека😬</custom_label_3>
+      <custom_label_0>Распродажа</custom_label_0>
+       <custom_label_1>Скидки</custom_label_1>
+       <custom_label_2>Последние квартиры</custom_label_2>
+       <custom_label_3>Льготная ипотека</custom_label_3>
       <price>
          <value>4000000</value>
          <currency>RUR</currency>
@@ -39,7 +39,7 @@
       <rooms>2</rooms>      
       <floor>12</floor>
       <floors>12</floors>      
-      <description>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT 😬</description>
+      <description>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT</description>
          <android_url>ozon://product/1</android_url>
       <ios_url>bozon://product/1</ios_url>
 </offer> 
