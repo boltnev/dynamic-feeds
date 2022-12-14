@@ -4,20 +4,20 @@
     <link rel="self" href="http://www.example.com"/>
     <item>
         <id>0</id>
-        <title>ЖК Изумрудный город😬</title>
-        <brand>Унистрой😬</brand>
+        <title>ЖК Изумрудный город</title>
+        <brand>Унистрой</brand>
         <availability>out of stock</availability>
-        <description>Уютный жилой комплекс в 15 минутах от центра города😬</description>
+        <description>Уютный жилой комплекс в 15 минутах от центра города</description>
         <location>
-	    <locality>Казань😬</locality>
-            <country>Россия😬</country>
-            <region>Республика Татарстан😬 </region>
-            <address>Рихарда Зорге 66Д 😬</address> 
+	    <locality>Казань</locality>
+            <country>Россия</country>
+            <region>Республика Татарстан</region>
+            <address>Рихарда Зорге 66Д</address> 
 	    <metro>
-	   	<name>Авиастроительная 😬</name>
+	   	<name>Авиастроительная</name>
             </metro>
 		<metro>
-	   	<name>Северный вокзал😬 </name>
+	   	<name>Северный вокзал</name>
             </metro>
         </location>
         <image_link>https://image.shutterstock.com/image-photo/example-word-written-on-wooden-260nw-1765482248.jpg</image_link>
