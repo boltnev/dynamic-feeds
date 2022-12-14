@@ -4,19 +4,18 @@
     <link rel="self" href="http://www.example.com"/>
     <item>
         <id>0</id>
-        <title>Борисова Наталья Вячеславовна</title>
-        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук</description>
+        <title>Борисова Наталья Вячеславовна😬</title>
+        <description>Стаж 40 лет  Врач высшей категории  Доктор медицинских наук😬</description>
         <link>https://www.example.com/car-1234></link>
-        <brand>Клиника Семейной Медицины </brand>
+        <brand>Клиника Семейной Медицины😬 </brand>
         <location>
-            <address>Рихарда Зорге 66в</address>
-            <locality>Казань</locality>
-            <region>Татарстан</region>
-            <country>Россия</country>
-            <metro>Проспект Победы
+            <address>Рихарда Зорге 66в😬</address>
+            <locality>Казань😬</locality>
+            <region>Татарстан😬</region>
+            <country>Россия😬/country>
+            <metro><name>Проспект😬 Победы </name>
                      
-                <time-on-foot>10</time-on-foot>
-                <time-on-transport>5</time-on-transport>
+                
             </metro>
         </location>
         <price>1000 RUB </price>
@@ -25,8 +24,8 @@
         <max_price>7000000 RUB</max_price>
         <phone>+7 495 479 1234 </phone>
         <rating>5</rating>
-        <worker_type>juridical</worker_type>
-        <product_type>Врачи>Кардиологи </product_type>
+        <worker_type>juridical😬</worker_type>
+        <product_type>Врачи>Кардиологи 😬 </product_type>
         <image_link>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</image_link>
     </item>
 	<item>
