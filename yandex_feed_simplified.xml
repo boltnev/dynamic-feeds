@@ -47,7 +47,7 @@
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
 </offer>
- <offer id="1" available="true">
+ <offer id="2" available="true">
   <name>McDonald&apos;s</name>   
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
@@ -66,7 +66,7 @@
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
 </offer>
-  <offer id="1" available="true">
+  <offer id="3" available="true">
   <name>McDonald&apos;s</name>   
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
@@ -85,7 +85,7 @@
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
 </offer>
-  <offer id="1" available="true">
+  <offer id="4" available="true">
   <name>McDonald&apos;s</name>   
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
@@ -104,7 +104,7 @@
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
 </offer>
-  <offer id="1" available="true">
+  <offer id="5" available="true">
   <name>McDonald&apos;s</name>   
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
