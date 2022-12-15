@@ -11,7 +11,7 @@
 </categories>
 <offers>
 <offer id="0" available="true">
-  <name>Антивирус ESET NOD32 Platinum Edition</name>   
+  <name>наушники bang &amp; Olufsen</name>   
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUD EXERCITATION ULLAMCO LABORIS NISI UT ALIQUIP EX EA COMMODO CONSEQUAT. DUIS AUTE IRURE DOLOR IN REPREHENDERIT IN VOLUPTATE VELIT ESSE CILLUM DOLORE EU FUGIAT NULLA PARIATUR. EXCEPTEUR SINT OCCAECAT CUPIDATAT NON PROIDENT, SUNT IN CULPA QUI OFFICIA DESERUNT MOLLIT ANIM ID EST LABORUM. </description>
   <url>https://mail.ru</url>
@@ -29,7 +29,7 @@
   <age unit="year">18</age>
 </offer>
 <offer id="1" available="true">
-  <name>Утюг Tefal SuperPuper</name>   
+  <name>McDonald'&apos;s</name>   
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
    <url>https://mail.ru</url>
@@ -47,8 +47,8 @@
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
 </offer>
-  <offer id="2" available="true">
-  <name>Утюг Tefal SuperPuper</name>    
+ <offer id="1" available="true">
+  <name>McDonald'&apos;s</name>   
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
    <url>https://mail.ru</url>
@@ -66,8 +66,8 @@
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
 </offer>
-  <offer id="3" available="true">
-  <name>Утюг Tefal SuperPuper</name>      
+  <offer id="1" available="true">
+  <name>McDonald'&apos;s</name>   
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
    <url>https://mail.ru</url>
@@ -85,8 +85,8 @@
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
 </offer>
-  <offer id="4" available="true">
-  <name>Утюг Tefal SuperPuper</name>    
+  <offer id="1" available="true">
+  <name>McDonald'&apos;s</name>   
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
    <url>https://mail.ru</url>
@@ -104,8 +104,8 @@
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
 </offer>
-  <offer id="5" available="true">
-  <name>Утюг Tefal SuperPuper</name>      
+  <offer id="1" available="true">
+  <name>McDonald'&apos;s</name>   
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
   <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
    <url>https://mail.ru</url>
@@ -122,7 +122,7 @@
   <manufacturer_warranty>true</manufacturer_warranty>
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
-</offer>  
+</offer>
 </offers>
 </shop>
 </yml_catalog>
