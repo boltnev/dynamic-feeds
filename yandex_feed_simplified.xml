@@ -11,9 +11,9 @@
 </categories>
 <offers>
 <offer id="0" available="true">
-  <name><strong>наушники Huawei </strong> </name>   
+  <name>наушники Huawei </name>   
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
-  <description>&lt;p&gt;LOREM IPSUM DOLOR SIT AMET  &lt;/p&gt; </description>
+  <description><strong>LOREM IPSUM DOLOR SIT AMET </strong> </description>
     <url>https://mail.ru</url>
   <price>1620.00</price>
   <oldprice>1800.00</oldprice>
@@ -29,9 +29,9 @@
   <age unit="year">18</age>
 </offer>
 <offer id="1" available="true">
-  <name><b>McDonald&apos;s </b></name>   
+  <name>McDonald&apos;s </name>   
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
-  <description>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1</description>
+  <description> <b>Антивирус ESET NOD32 Platinum Edition - лицензия на 2 года NOD32-ENA-NS(BOX)-2-1 </b></description>
    <url>https://mail.ru</url>
   <price>1620.00</price>
   <oldprice>1800.00</oldprice>
