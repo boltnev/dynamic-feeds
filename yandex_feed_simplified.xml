@@ -13,7 +13,7 @@
 <offer id="0" available="true">
   <name>наушники Huawei </name>   
   <vendorCode>NOD32-ENA-NS(BOX)-2-1</vendorCode>
-  <description><strong>LOREM IPSUM DOLOR SIT AMET </strong> </description>
+  <description><p>LOREM IPSUM DOLOR SIT AMET </p> </description>
     <url>https://mail.ru</url>
   <price>1620.00</price>
   <oldprice>1800.00</oldprice>
