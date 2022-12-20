@@ -6,7 +6,7 @@
 <currency id="RUR" rate="1"/>
 </currencies>
 <categories>
-<category id="1">Бытовая техника</category>
+<category id="1"></category>
 <category id="10" parentId="1">Мелкая техника для кухни</category>
 </categories>
 <offers>
@@ -38,7 +38,7 @@
   <price>1620.00</price>
   <oldprice>1800.00</oldprice>
   <currencyId>RUB</currencyId>
-  <categoryId>10</categoryId>
+  <categoryId></categoryId>
   <picture>https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/alt-5ae892611bf1a-5168-1472832016f2509f3889266323039a33@1x.jpg</picture>  
   <store>false</store>
   <pickup>true</pickup>
