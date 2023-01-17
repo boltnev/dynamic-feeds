@@ -2,8 +2,8 @@
 <data>
     <cars>
         <car>
-      <mark_id>Nissan </mark_id>
-      <folder_id>Juke</folder_id>
+      <mark_id>BMW </mark_id>
+      <folder_id>X5</folder_id>
           <oldprice>1500000</oldprice>
       <min_price>10000000</min_price>
       <max_price>17000000</max_price>
@@ -26,8 +26,8 @@
             <ios_app_store_id>100500</ios_app_store_id>
         </car>   
           <car>
-      <mark_id>Nissan</mark_id>
-      <folder_id>Qashqai, II</folder_id>      
+      <mark_id>SAAB</mark_id>
+      <folder_id>93</folder_id>      
       <body_type>Внедорожник</body_type>       
       <color>серый</color>      
       <availability>в наличии</availability>      
@@ -45,8 +45,8 @@
               <run>500</run>              
         </car>
           <car>
-      <mark_id>Nissan</mark_id>
-      <folder_id>Qashqai, II</folder_id>      
+      <mark_id>Aston Martin</mark_id>
+      <folder_id>DB9</folder_id>      
       <body_type>Пепелац</body_type>       
       <color>серый</color>      
       <availability>в наличии</availability>      
