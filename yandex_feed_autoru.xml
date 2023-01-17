@@ -2,26 +2,28 @@
 <data>
     <cars>
         <car>
-      <mark_id>Nissan 😬</mark_id>
-      <folder_id>Специальные предложения на модельный ряд Nissan 😬!</folder_id>
-          <oldprice>1500000😬</oldprice>
-      <min_price>10000000😬</min_price>
-      <max_price>17000000😬</max_price>
+      <mark_id>Nissan </mark_id>
+      <folder_id>Juke</folder_id>
+          <oldprice>1500000</oldprice>
+      <min_price>10000000</min_price>
+      <max_price>17000000</max_price>
       <availability>в наличии</availability>      
       <owners_number>Новый</owners_number>
       <year>2017</year>
-      <price>1300000😬</price>    
+      <price>1300000</price>    
       <currency>RUB</currency>   
       <vin>100500</vin>
       <unique_id>b7027f76133fddda985dc132df21e765b7027f76133fddda985dc132df21</unique_id>
       <url>https://auto.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>
-      <description>Специальные предложения на модельный ряд Nissan!😬 </description>     
+      <description>Специальные предложения на модельный ряд Nissan! </description>     
       <images>
            <image>https://cdn-icons-png.flaticon.com/512/108/108732.png</image>          
          </images>
-      <poi_id>г. Воронеж, Дорожная 125 😬</poi_id>  
-            <run>50000 😬</run>
-            <state></state>            
+      <poi_id>г. Воронеж, Дорожная 125 </poi_id>  
+            <run>50000 </run>
+            <state></state>    
+            <bundle_id>ru.sunlight.sunlight</bundle_id>
+            <ios_app_store_id>100500</ios_app_store_id>
         </car>   
           <car>
       <mark_id>Nissan</mark_id>
@@ -53,12 +55,13 @@
       <price>1300000</price>    
          <currency>RUB</currency>  
       <unique_id>b7027f76133fddda985dc132df21e765b7027f76133fddda985dc132df212</unique_id>
-      <url>https://auto.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>
-         
+      <url>https://auto.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>         
       <images>
            <image>https://cdn-icons-png.flaticon.com/512/108/108732.png</image>          
          </images>
-      <poi_id>г. Воронеж, Дорожная 125</poi_id>               
+      <poi_id>г. Воронеж, Дорожная 125</poi_id>  
+              <bundle_id>ru.sunlight.sunlight</bundle_id>
+            <ios_app_store_id>100500</ios_app_store_id>
         </car>    
     </cars>
 </data>
