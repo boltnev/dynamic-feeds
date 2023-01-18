@@ -5,7 +5,8 @@
       <mark_id>SAAB</mark_id>
       <folder_id>93</folder_id>      
       <body_type>Хэтчбек</body_type>       
-      <color>серый</color>      
+      <color>серый</color>    
+      <run>100000</run>
       <availability>в наличии</availability>      
       <owners_number>Новый</owners_number>
       <year>2018</year>
@@ -29,7 +30,8 @@
       <availability>в наличии</availability>      
       <owners_number>Новый</owners_number>
       <year>2017</year>
-      <price>1300000</price>    
+      <price>1300000</price>   
+                  <run>500000</run>
          <currency>RUB</currency>  
       <unique_id>2</unique_id>
       <url>https://auto.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>         
@@ -51,6 +53,7 @@
       <price>1300000</price>    
          <currency>RUB</currency>  
       <unique_id>3</unique_id>
+              <run>666600000</run>
       <url>https://auto.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>         
       <images>
            <image>https://cdn-icons-png.flaticon.com/512/108/108732.png</image>          
