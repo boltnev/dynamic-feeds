@@ -28,7 +28,7 @@
           <car>
       <mark_id>SAAB</mark_id>
       <folder_id>93</folder_id>      
-      <body_type>Внедорожник</body_type>       
+      <body_type>Хэтчбек</body_type>       
       <color>серый</color>      
       <availability>в наличии</availability>      
       <owners_number>Новый</owners_number>
@@ -44,6 +44,25 @@
       <poi_id>г. Воронеж, Дорожная 125</poi_id>     
               <run>500</run>              
         </car>
+              <car>
+      <mark_id>Aston Martin</mark_id>
+      <folder_id>DB9</folder_id>      
+      <body_type>хетчбек</body_type>       
+      <color>серый</color>      
+      <availability>в наличии</availability>      
+      <owners_number>Новый</owners_number>
+      <year>2017</year>
+      <price>1300000</price>    
+         <currency>RUB</currency>  
+      <unique_id>b7027f76133fddda985dc132df21e765b7027f76133fddda985dc132df213332</unique_id>
+      <url>https://auto.ru/cars/used/sale/nissan/qashqai/1116914271-c369db06/</url>         
+      <images>
+           <image>https://cdn-icons-png.flaticon.com/512/108/108732.png</image>          
+         </images>
+      <poi_id>г. Воронеж, Дорожная 125</poi_id>  
+              <bundle_id>ru.sunlight.sunlight</bundle_id>
+            <ios_app_store_id>100500</ios_app_store_id>
+        </car> 
           <car>
       <mark_id>Aston Martin</mark_id>
       <folder_id>DB9</folder_id>      
