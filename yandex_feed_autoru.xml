@@ -10,7 +10,8 @@
       <availability>в наличии</availability>      
       <owners_number>Новый</owners_number>
       <year>2018</year>
-      <price>1300000</price>    
+      <price>1300000</price>  
+      <old_price>1500000 </old_price>
         <currency>RUB</currency>   
        <vin>500100</vin>   
                <unique_id>1</unique_id>
@@ -35,6 +36,7 @@
       <owners_number>Новый</owners_number>
       <year>2017</year>
       <price>1300000</price>   
+                  <old_price>1500000 </old_price>
                   <run>500000</run>
          <currency>RUB</currency>  
       <unique_id>2</unique_id>
@@ -56,7 +58,8 @@
       <availability>в наличии</availability>      
       <owners_number>Новый</owners_number>
       <year>2017</year>
-      <price>1300000</price>    
+      <price>1300000</price>  
+              <old_price>1500000 </old_price>
          <currency>RUB</currency>  
       <unique_id>3</unique_id>
               <run>666600000</run>
