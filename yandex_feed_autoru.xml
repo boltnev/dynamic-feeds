@@ -20,7 +20,11 @@
            <image>https://cdn-icons-png.flaticon.com/512/108/108732.png</image>          
          </images>
       <poi_id>г. Воронеж, Дорожная 125</poi_id>     
-              <run>500</run>              
+              <run>500</run>    
+              <ios_url>example://electronic</ios_url>
+<ios_app_store_id">42</ios_app_store_id>
+<android_url>example://electronic</android_url>
+<bundle_id>com.electronic</bundle_id>
         </car>
               <car>
       <mark_id>Aston Martin</mark_id>
@@ -39,8 +43,10 @@
            <image>https://cdn-icons-png.flaticon.com/512/108/108732.png</image>          
          </images>
       <poi_id>г. Воронеж, Дорожная 125</poi_id>  
-              <bundle_id>ru.sunlight.sunlight</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
+             <ios_url>example://electronic</ios_url>
+<ios_app_store_id">42</ios_app_store_id>
+<android_url>example://electronic</android_url>
+<bundle_id>com.electronic</bundle_id>
         </car> 
           <car>
       <mark_id>Aston Martin</mark_id>
@@ -59,8 +65,10 @@
            <image>https://cdn-icons-png.flaticon.com/512/108/108732.png</image>          
          </images>
       <poi_id>г. Воронеж, Дорожная 125</poi_id>  
-              <bundle_id>ru.sunlight.sunlight</bundle_id>
-            <ios_app_store_id>100500</ios_app_store_id>
+             <ios_url>example://electronic</ios_url>
+<ios_app_store_id">42</ios_app_store_id>
+<android_url>example://electronic</android_url>
+<bundle_id>com.electronic</bundle_id>
         </car>    
     </cars>
 </data>
