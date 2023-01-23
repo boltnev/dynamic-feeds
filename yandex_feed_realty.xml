@@ -40,10 +40,10 @@
       <floor>12</floor>
       <floors>12</floors>      
       <description>lorem ipsum dolor</description>
-        <ios_url>example://electronic</ios_url>
-<ios_app_store_id>42</ios_app_store_id>
-<android_url>example://electronic</android_url>
-<bundle_id>com.electronic</bundle_id>
+        <applink property="ios_url" content="example://electronic" />
+<applink property="ios_app_store_id" content="42" />
+<applink property="android_url" content="example://electronic" />
+<applink property="android_package" content="com.electronic" />
 </offer> 
       <offer internal-id="2">
       <type>продажа</type>
