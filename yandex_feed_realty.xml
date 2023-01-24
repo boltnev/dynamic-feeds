@@ -82,8 +82,8 @@
       <rooms>2</rooms>      
       <floor>12</floor>
       <floors>12</floors>      
-      <description>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUD EXERCITATION ULLAMCO LABORIS NISI UT ALIQUIP EX EA COMMODO CONSEQUAT. DUIS AUTE IRURE DOLOR IN REPREHENDERIT IN VOLUPTATE VELIT ESSE CILLUM DOLORE EU FUGIAT NULLA PARIATUR. EXCEPTEUR SINT OCCAECAT CUPIDATAT NON PROIDENT, SUNT IN CULPA QUI OFFICIA DESERUNT MOLLIT ANIM ID EST LABORUM. </description>
-      <ios_url>example://electronic</ios_url>
+      <description>Самая лучшая квартира в Москве</description>      
+<ios_url>example://electronic</ios_url>
 <ios_app_store_id>42</ios_app_store_id>
 <android_url>example://electronic</android_url>
 <bundle_id>com.electronic</bundle_id>   
