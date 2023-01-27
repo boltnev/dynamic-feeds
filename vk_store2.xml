@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2023-01-27 11:38">
+<shop>
+<name>VK Store</name>
+<company>VK Store</company>
+<url>https://vk.com/</url>
+<currencies>
+<currency id="RUR"/>
+</currencies>
+<categories>
+<category id="1">Одежда, обувь и аксессуары</category>
+</categories>
+<offers>
+<offer id="1" available="true">
+<url>https://vk.com/albums-131520226?z=photo-131520226_457240414%2Fphotos-131520226</url>
+<price>3590</price>
+<name>Рюкзак</name>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://vk.com/albums-131520226?z=photo-131520226_457240414%2Fphotos-131520226</picture>
+</offer>
+<offer id="2" available="true">
+<url>https://vk.com/albums-131520226?z=photo-131520226_457240379%2Fphotos-131520226</url>
+<price>3090</price>
+<name>Худи с Персиком</name>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://vk.com/albums-131520226?z=photo-131520226_457240379%2Fphotos-131520226</picture>
+</offer>
+<offer id="3" available="true">
+<url>https://vk.com/albums-131520226?z=photo-131520226_457240389%2Fphotos-131520226</url>
+<price>1890</price>
+<name>Футболка с Дигги</name>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://vk.com/albums-131520226?z=photo-131520226_457240389%2Fphotos-131520226</picture>
+</offer>
+<offer id="4" available="true">
+<url>https://vk.com/albums-131520226?z=photo-131520226_457240355%2Fphotos-131520226</url>
+<price>1790</price>
+<name>Футболка VK</name>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://vk.com/albums-131520226?z=photo-131520226_457240355%2Fphotos-131520226</picture>
+</offer>
+<offer id="5" available="true">
+<url>https://vk.com/albums-131520226?z=photo-131520226_457240026%2Fphotos-131520226</url>
+<price>3090</price>
+<name>Худи</name>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://vk.com/albums-131520226?z=photo-131520226_457240026%2Fphotos-131520226</picture>
+</offer>
+<offer id="6" available="true">
+<url>https://vk.com/albums-131520226?z=photo-131520226_457240013%2Fphotos-131520226</url>
+<price>1890</price>
+<name>Футболка со Спарксом</name>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://vk.com/albums-131520226?z=photo-131520226_457240013%2Fphotos-131520226</picture>
+</offer>
+<offer id="7" available="true">
+<url>https://vk.com/albums-131520226?z=photo-131520226_457239996%2Fphotos-131520226</url>
+<price>1890</price>
+<name>Чехол для ноутбука</name>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://vk.com/albums-131520226?z=photo-131520226_457239996%2Fphotos-131520226</picture>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
