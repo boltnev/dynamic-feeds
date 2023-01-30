@@ -8,7 +8,8 @@
         <category>Хостел</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
-        <price>199.99 USD</price>                
+        <price>199.99 USD</price> 
+        <sale_price>100 USD</sale_price>
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
         </image>
