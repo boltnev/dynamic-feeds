@@ -8,8 +8,7 @@
         <category>Хостел</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
-        <price>199.99 USD</price>
-        <phone>+61 2-96027455</phone>        
+        <price>199.99 USD</price>                
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
         </image>
