@@ -8,7 +8,7 @@
         <category>Хостел</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
-        <price>199.99 GBP</price> 
+        <price>199.99 USD</price> 
         <sale_price>100 USD</sale_price>
         <min_price>50 USD</min_price>
         <max_price>500 USD </max_price>
