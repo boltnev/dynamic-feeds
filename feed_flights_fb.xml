@@ -12,11 +12,7 @@
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>
-        </image>
-        <image>
-            <url>http://example.com/some.image_2.jpg</url>
-            <tag>food</tag>
-        </image>
+        </image>      
         <price>100.00 USD</price>
         <description>Best Flight</description>
         <applink property="ios_url" content="example://travelapp" />
@@ -34,11 +30,7 @@
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>
-        </image>
-        <image>
-            <url>http://example.com/some.image_2.jpg</url>
-            <tag>food</tag>
-        </image>
+        </image>       
         <price>100.00 USD</price>
         <description>Best Flight</description>
         <applink property="ios_url" content="example://travelapp" />
@@ -56,11 +48,7 @@
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>
-        </image>
-        <image>
-            <url>http://example.com/some.image_2.jpg</url>
-            <tag>food</tag>
-        </image>
+        </image>        
         <price>100.00 USD</price>
         <description>Best Flight</description>
         <applink property="ios_url" content="example://travelapp" />
@@ -78,11 +66,7 @@
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>
-        </image>
-        <image>
-            <url>http://example.com/some.image_2.jpg</url>
-            <tag>food</tag>
-        </image>
+        </image>        
         <price>100.00 USD</price>
         <description>Best Flight</description>
         <applink property="ios_url" content="example://travelapp" />
@@ -100,11 +84,7 @@
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>
-        </image>
-        <image>
-            <url>http://example.com/some.image_2.jpg</url>
-            <tag>food</tag>
-        </image>
+        </image>        
         <price>100.00 USD</price>
         <description>Best Flight</description>
         <applink property="ios_url" content="example://travelapp" />
@@ -122,11 +102,7 @@
         <image>
             <url>http://example.com/some.image_1.jpg</url>
             <tag>city</tag>
-        </image>
-        <image>
-            <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
-            <tag>food</tag>
-        </image>
+        </image>        
         <price>100.00 USD</price>
         <description>Best Flight</description>
         <applink property="ios_url" content="example://travelapp" />
