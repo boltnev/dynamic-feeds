@@ -9,13 +9,7 @@
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
         <price>199.99 USD</price>
-        <phone>+61 2-96027455</phone>
-        <star_rating>4</star_rating>
-        <guest_rating>
-            <score>5.1</score>
-            <rating_system>tripAdvisor</rating_system>
-            <number_of_reviewers>123</number_of_reviewers>
-        </guest_rating>
+        <phone>+61 2-96027455</phone>        
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
         </image>
@@ -40,14 +34,7 @@
         <category>Кемпинг</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
-        <price>199.99 USD</price>
-        <phone>+61 2-96027455</phone>
-        <star_rating>4</star_rating>
-        <guest_rating>
-            <score>5.1</score>
-            <rating_system>tripAdvisor</rating_system>
-            <number_of_reviewers>123</number_of_reviewers>
-        </guest_rating>
+        <price>199.99 USD</price>        
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
         </image>
@@ -68,14 +55,7 @@
         <category>Глэмпинг</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
-        <price>199.99 USD</price>
-        <phone>+61 2-96027455</phone>
-        <star_rating>4</star_rating>
-        <guest_rating>
-            <score>5.1</score>
-            <rating_system>tripAdvisor</rating_system>
-            <number_of_reviewers>123</number_of_reviewers>
-        </guest_rating>
+        <price>199.99 USD</price>      
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
         </image>
@@ -96,14 +76,7 @@
         <category>Домик в деревне</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
-        <price>199.99 USD</price>
-        <phone>+61 2-96027455</phone>
-        <star_rating>4</star_rating>
-        <guest_rating>
-            <score>5.1</score>
-            <rating_system>tripAdvisor</rating_system>
-            <number_of_reviewers>123</number_of_reviewers>
-        </guest_rating>
+        <price>199.99 USD</price>       
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
         </image>
@@ -121,14 +94,7 @@
         <category>Отель</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
-        <price>199.99 USD</price>
-        <phone>+61 2-96027455</phone>
-        <star_rating>4</star_rating>
-        <guest_rating>
-            <score>5.1</score>
-            <rating_system>tripAdvisor</rating_system>
-            <number_of_reviewers>123</number_of_reviewers>
-        </guest_rating>
+        <price>199.99 USD</price>        
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
         </image>
@@ -146,14 +112,7 @@
         <category> </category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
-        <price>199.99 USD</price>
-        <phone>+61 2-96027455</phone>
-        <star_rating>4</star_rating>
-        <guest_rating>
-            <score>5.1</score>
-            <rating_system>tripAdvisor</rating_system>
-            <number_of_reviewers>123</number_of_reviewers>
-        </guest_rating>
+        <price>199.99 USD</price>      
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
         </image>
