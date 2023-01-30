@@ -1,4 +1,4 @@
-"Destination ID","Origin ID","Destination name","Origin name","Flight description","Image URL","Final URL","Flight price"
-"ABA","MOW","Абакан","Москва","Москва - Абакан","http://siteforyandex.com/img/01.jpeg","http://siteforyandex.com/01","10000 RUB"
-"PAR","MOW","Париж","Москва","Москва - Париж","http://siteforyandex.com/img/02.jpeg","http://siteforyandex.com/02","15000 RUB"
-"NYC","MOW","Нью-Йорк","Москва","Москва - Нью-Йорк","http://siteforyandex.com/img/03.jpeg","http://siteforyandex.com/03","22000 RUB"
+"ID","Destination ID","Origin ID","Destination name","Origin name","Flight description","Image URL","Final URL","Flight price"
+1,"ABA","MOW","Абакан","Москва","Москва - Абакан","http://siteforyandex.com/img/01.jpeg","http://siteforyandex.com/01","10000 RUB"
+2,"PAR","MOW","Париж","Москва","Москва - Париж","http://siteforyandex.com/img/02.jpeg","http://siteforyandex.com/02","15000 RUB"
+3,"NYC","MOW","Нью-Йорк","Москва","Москва - Нью-Йорк","http://siteforyandex.com/img/03.jpeg","http://siteforyandex.com/03","22000 RUB"
