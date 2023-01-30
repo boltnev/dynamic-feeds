@@ -19,6 +19,7 @@
         <applink property="ios_app_store_id" content="42" />        
         <applink property="android_url" content="example://travelapp" />
         <applink property="android_package" content="com.travelapp" /> 
+        <custom_label_0>Летняя распродажа</custom_label_0>
     </listing>
     <listing>
         <id>2</id>
@@ -37,6 +38,7 @@
         <applink property="ios_app_store_id" content="42" />        
         <applink property="android_url" content="example://travelapp" />
         <applink property="android_package" content="com.travelapp" /> 
+        <custom_label_1>Осенняя распродажа</custom_label_1>
     </listing>
      <listing>
         <id>3</id>
@@ -55,6 +57,7 @@
         <applink property="ios_app_store_id" content="42" />        
         <applink property="android_url" content="example://travelapp" />
         <applink property="android_package" content="com.travelapp" /> 
+         <custom_label_2>Зимняя распродажа</custom_label_2>
     </listing>
      <listing>
         <id>4</id>
@@ -73,6 +76,7 @@
         <applink property="ios_app_store_id" content="42" />        
         <applink property="android_url" content="example://travelapp" />
         <applink property="android_package" content="com.travelapp" /> 
+         <custom_label_4>Весенняя распродажа</custom_label_4>
     </listing>
      <listing>
         <id>5</id>
