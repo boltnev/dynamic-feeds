@@ -5,6 +5,7 @@
     <listing>
         <hotel_id>1</hotel_id>
         <name>The best hotel</name>
+        <category>Хостел</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
         <price>199.99 USD</price>
@@ -36,6 +37,7 @@
     <listing>
         <hotel_id>2</hotel_id>
         <name>The best hotel</name>
+        <category>Кемпинг</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
         <price>199.99 USD</price>
@@ -63,6 +65,7 @@
     <listing>
         <hotel_id>3</hotel_id>
         <name>The best hotel</name>
+        <category>Глэмпинг</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
         <price>199.99 USD</price>
@@ -90,6 +93,7 @@
     <listing>
         <hotel_id>4</hotel_id>
         <name>The best hotel</name>
+        <category>Домик в деревне</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
         <price>199.99 USD</price>
@@ -114,6 +118,7 @@
     <listing>
         <hotel_id>5</hotel_id>
         <name>The best hotel</name>
+        <category>Отель</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
         <price>199.99 USD</price>
@@ -138,6 +143,7 @@
     <listing>
         <hotel_id>6</hotel_id>
         <name>The best hotel</name>
+        <category> </category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
         <price>199.99 USD</price>
