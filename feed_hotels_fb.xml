@@ -22,6 +22,7 @@
                <name>Белорусская</name>
             </metro>
         </location>
+        <custom_label_0>Распродажа</custom_label_0>
         <applink property="ios_url" content="example-ios://electronic"/>
         <applink property="ios_app_store_id" content="42"/>
         <applink property="android_url" content="example://electronic"/>
