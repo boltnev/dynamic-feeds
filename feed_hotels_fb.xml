@@ -3,7 +3,7 @@
     <script/>
     <title>My Hotel Feed</title>
     <listing>
-        <hotel_id>1</hotel_id>
+        <id>1</id>
         <name>The best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotel</name>
         <category>Хостел</category>
         <description>A very nice hotel</description>
@@ -17,7 +17,7 @@
         </image>
         <url></url>
         <location>
-            <address>Пролетарская д7</address>
+            <address>Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7</address>
             <locality>Москва</locality>
             <region>Москва</region>
             <country>Россия</country>
