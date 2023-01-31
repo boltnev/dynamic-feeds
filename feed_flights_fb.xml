@@ -8,15 +8,15 @@
         <destination_airport>SFO</destination_airport> 
         <origin_city>Boston </origin_city>
         <destination_city>San Francisco </destination_city> 
-        <url>https:///</url> 
+        <url>https://ticket.pobeda.aero/websky/</url> 
          <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334</url>
             <tag>city</tag>
         </image>  
          <price>100.00 USD</price>
-        <applink property="ios_url" content="example-ios://travelapp" />
+        <applink property="ios_url" content="example://travelapp" />
         <applink property="ios_app_store_id" content="" />        
-        <applink property="android_url" content="example-android://travelapp" />
+        <applink property="android_url" content="example://travelapp" />
         <applink property="android_package" content="" /> 
         <custom_label_0>Летняя распродажа</custom_label_0>
     </listing>
