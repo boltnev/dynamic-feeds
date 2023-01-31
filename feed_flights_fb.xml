@@ -7,7 +7,7 @@
         <origin_airport>BOS</origin_airport>
         <destination_airport>JFK</destination_airport> 
         <origin_city>BOSTON</origin_city>
-        <destination_city>NEW YORK</destination_city> 
+        <destination_city>New York</destination_city> 
         <url>https://ticket.pobeda.aero/websky/</url> 
          <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334</url>
