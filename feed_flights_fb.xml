@@ -31,7 +31,7 @@
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>
         </image>       
-        <price>100.00 USD</price>
+        <price>100.00 GBP</price>
         <description>Best Flight</description>
         <applink property="ios_url" content="example://travelapp" />
         <applink property="ios_app_store_id" content="42" />        
