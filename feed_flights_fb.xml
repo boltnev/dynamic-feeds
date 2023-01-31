@@ -10,7 +10,7 @@
         <destination_city>New York</destination_city> 
         <url>https://ticket.pobeda.aero/websky/</url> 
          <image>
-            <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334</url>
+            <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>
         </image>  
          <price>100.00 USD</price>
