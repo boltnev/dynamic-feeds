@@ -3,7 +3,7 @@
     <title>My Flight Feed</title>
     <link rel="self" href="http://www.example.com"/>
     <listing>
-        <id>Lorem ipsum dolor sit amet </id>
+        <id>Lorem ipsum dolor sit amet</id>
         <origin_airport>BOS</origin_airport>
         <destination_airport>JFK</destination_airport> 
         <origin_city>BOSTON</origin_city>
@@ -24,7 +24,7 @@
         <custom_label_0>Летняя распродажа</custom_label_0>
     </listing>
     <listing>
-        <id>2</id>
+        <id>Lorem ipsum dolor sit amet</id>
         <origin_airport>BOS</origin_airport>
         <destination_airport>SFO</destination_airport>
         <origin_city>Boston </origin_city>
