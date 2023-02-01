@@ -14,6 +14,7 @@
             <tag>city</tag>
         </image>  
          <price>100.00 USD</price>
+         <sale_price>50 USD</sale_price>
          <min_price>50 USD</min_price>
         <max_price>500 USD</max_price>
         <applink property="ios_url" content="example://travelapp" />
