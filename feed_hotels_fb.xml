@@ -4,7 +4,7 @@
     <title>My Hotel Feed</title>
     <listing>
         <id>1</id>
-        <name>The best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotel</name>
+        <name> best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotelThe best hotel</name>
         <category>Хостел</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
@@ -17,12 +17,12 @@
         </image>
         <url></url>
         <location>
-            <address>Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7Пролетарская д7</address>
+            <address>Дубравная</address>
             <locality>Москва</locality>
             <region>Москва</region>
             <country>Россия</country>
             <metro> 
-               <name>БелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусскаяБелорусская</name>
+               <name>Белорусская</name>
             </metro>
         </location>
         <custom_label_0>Распродажа</custom_label_0>
