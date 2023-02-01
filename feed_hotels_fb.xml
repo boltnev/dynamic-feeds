@@ -50,6 +50,15 @@
             <metro> 
                <name>Динамо</name>
             </metro>
+            <metro> 
+               <name>Сокол</name>
+            </metro>
+            <metro> 
+               <name>Аэропорт</name>
+            </metro>
+            <metro> 
+               <name>Белорусская</name>
+            </metro>
         </location>      
     </listing>
     <listing>
