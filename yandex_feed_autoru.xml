@@ -2,7 +2,7 @@
 <data>
     <cars>           
           <car>
-      <mark_id>SAAB</mark_id>
+      <mark_id>Saab</mark_id>
       <folder_id>93</folder_id>      
       <body_type>Хэтчбек</body_type>       
       <color>серый</color>    
@@ -51,7 +51,7 @@
 <bundle_id>com.electronic</bundle_id>
         </car> 
           <car>
-      <mark_id>HAVAL</mark_id>
+      <mark_id>Haval</mark_id>
       <folder_id>F7</folder_id>      
       <body_type>Пепелац</body_type>       
       <color>серый</color>      
