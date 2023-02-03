@@ -2,8 +2,8 @@
 <data>
     <cars>           
           <car>
-      <mark_id>Saab</mark_id>
-      <folder_id>93</folder_id>      
+      <mark_id>Volkswagen</mark_id>
+      <folder_id>GOLF</folder_id>      
       <body_type>Хэтчбек</body_type>       
       <color>серый</color>    
       <run>100000</run>
@@ -52,7 +52,7 @@
         </car> 
           <car>
       <mark_id>Haval</mark_id>
-      <folder_id>F7</folder_id>      
+      <folder_id>DARGO</folder_id>      
       <body_type>Пепелац</body_type>       
       <color>серый</color>      
       <availability>в наличии</availability>      
