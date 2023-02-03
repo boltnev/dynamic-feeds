@@ -3,7 +3,7 @@
     <cars>           
           <car>
       <mark_id>BMW</mark_id>
-      <folder_id>X6</folder_id>      
+      <folder_id>XX</folder_id>      
       <body_type>Кроссовер</body_type>       
       <color>серый</color>    
       <run>0</run>
