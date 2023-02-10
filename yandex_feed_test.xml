@@ -28,8 +28,12 @@
   <manufacturer_warranty>true</manufacturer_warranty>
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
-  <android_tracking_url>https://app.appsflyer.com/ru.sokolov.android?af_dp=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
-  <ios_tracking_url>https://app.appsflyer.com/id1501705341?af_dp%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
+  <android_tracking_url>http://app.adjust.io/ru.sokolov.android?deep_link=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
+  <ios_tracking_url>http://app.adjust.io/id1501705341?deep_link%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
+   <android_url>sokolov://product/1</android_url>
+  <ios_url>sokolov://product/1</ios_url>
+  <bundle_id>ru.sokolov.android</bundle_id>
+  <ios_app_store_id>100500500</ios_app_store_id>
 </offer>
 <offer id="0123451" available="true">
   <name>Антивирус ESET NOD32 Platinum Edition</name>  
@@ -48,8 +52,8 @@
   <manufacturer_warranty>true</manufacturer_warranty>
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
-  <android_tracking_url>https://app.appsflyer.com/ru.sokolov.android?af_dp=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
-  <ios_tracking_url>https://app.appsflyer.com/id1501705341?af_dp%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
+  <android_tracking_url>http://app.adjust.io/ru.sokolov.android?deep_link=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
+  <ios_tracking_url>http://app.adjust.io/id1501705341?deep_link%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
   <android_url>sokolov://product/1</android_url>
   <ios_url>sokolov://product/1</ios_url>
   <bundle_id>ru.sokolov.android</bundle_id>
@@ -72,8 +76,8 @@
   <manufacturer_warranty>true</manufacturer_warranty>
   <country_of_origin>Россия</country_of_origin>
   <age unit="year">18</age>
-  <android_tracking_url>https://app.appsflyer.com/ru.sokolov.android?af_dp=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
-  <ios_tracking_url>https://app.appsflyer.com/id1501705341?af_dp%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
+  <android_tracking_url>http://app.adjust.io/ru.sokolov.android?deep_link=sokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</android_tracking_url>
+  <ios_tracking_url>http://app.adjust.io/id1501705341?deep_link%3Dsokolov%3A%2F%2Fproduct%2F01.00.01.1-1.0.10-8.25.2</ios_tracking_url>
   <android_url>sokolov://product/1</android_url>
   <ios_url>sokolov://product/1</ios_url>
   <bundle_id>ru.sokolov.android</bundle_id>
