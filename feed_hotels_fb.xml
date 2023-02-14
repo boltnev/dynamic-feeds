@@ -15,7 +15,7 @@
         <image>
             <url>https://www.onetwotrip.com/</url>
         </image>
-        <url></url>
+        <url>https://www.onetwotrip.com/</url>
         <location>
             <address>Дубравная</address>
             <locality>Москва</locality>
@@ -103,7 +103,7 @@
     <listing>
         <hotel_id>5</hotel_id>
         <name>The best hotel</name>
-        <category>Отель</category>
+        <category>Мотель</category>
         <description>A very nice hotel</description>
         <brand>Premium_brand</brand>
         <price>199.99 USD</price>        
