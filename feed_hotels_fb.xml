@@ -25,6 +25,9 @@
                <name>Белорусская</name>
             </metro>
         </location>
+        <guest_rating>
+            <score>5.1</score>            
+        </guest_rating>
         <custom_label_0>Распродажа</custom_label_0>
         <applink property="ios_url" content="example://electronic"/>
         <applink property="ios_app_store_id" content="42"/>
@@ -42,6 +45,9 @@
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
         </image>
         <url>https://www.onetwotrip.com/</url>
+        <guest_rating>
+            <score>9.1</score>            
+        </guest_rating>
         <location>
             <address>Пролетарская д7</address>
             <locality>Москва</locality>
@@ -72,6 +78,9 @@
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
         </image>
         <url>https://www.onetwotrip.com/</url>
+        <guest_rating>
+            <score>2.1</score>            
+        </guest_rating>
         <location>
             <address>Пролетарская д7</address>
             <locality>Москва</locality>
