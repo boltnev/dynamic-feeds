@@ -26,7 +26,7 @@
             </metro>
         </location>
         <guest_rating>
-            <score>10.1</score>            
+            <score>0.1</score>            
         </guest_rating>
         <custom_label_0>Распродажа</custom_label_0>
         <applink property="ios_url" content="example://electronic"/>
@@ -46,7 +46,7 @@
         </image>
         <url>https://www.onetwotrip.com/</url>
         <guest_rating>
-            <score>9.1</score>            
+            <score>1</score>            
         </guest_rating>
         <location>
             <address>Пролетарская д7</address>
