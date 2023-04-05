@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2023-04-04 14:10">
+    <shop>
+        <name>Tmall | AliExpress</name>
+        <company>ООО АЛИБАБА.КОМ (РУ)</company>
+        <url>https://tmall.aliexpress.com/</url>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+        <offers>
+            <offer id="1005004699533355">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>181</price>
+                <oldprice>259</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200223144</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S053b037288544dfa9773d7f94c7df4e7i/stub.jpg_960x960.jpg</picture>
+                <name>200 шт., прозрачные пластиковые пакеты, водонепроницаемые самоклеящиеся пакеты для ювелирных изделий / набор (200 шт.)</name>
+                <ios_url>aliexpress://product/detail?productId=1005004699533355&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004699533355&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004231522199">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>15</price>
+                <oldprice>16</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200042154</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S58dc2197899e4eff8f775f3836666bb9s/stub.jpg_960x960.jpg</picture>
+                <name>Новинка 12 шт./лот жемчужины мусульманская женская шаль шарф женские шарфы зажимы для хиджаба жемчужная брошь заколка на булавке головной платок для / набор (12 шт.)</name>
+                <ios_url>aliexpress://product/detail?productId=1005004231522199&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004231522199&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004709122012">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>910</price>
+                <oldprice>1214</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200003824</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Se16dcdb43fca493e9f5ac8ee7c32e403z/stub.jpg_960x960.jpg</picture>
+                <name>Индукционный светильник для шкафа YEE, светодиодный светильник с плавным затемнением и зарядкой от USB, для кухни, гардероба, спальни</name>
+                <ios_url>aliexpress://product/detail?productId=1005004709122012&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004709122012&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004197579912">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>1160</price>
+                <oldprice>1160</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>201249501</categoryId>
+                <picture>https://ae01.alicdn.com/kf/See8c75369c5e4527a23c6e1849839142q/stub.jpg_960x960.jpg</picture>
+                <name>Наконечник стоматологический ультразвуковой пьезоэлектрический скейлер HW-3H светодиодный для ультразвуковых скалеров SATEC EMS</name>
+                <ios_url>aliexpress://product/detail?productId=1005004197579912&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004197579912&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004784646948">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>73</price>
+                <oldprice>147</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>380110</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S160ca570ecc843a18b997536edaf3d8ek/stub.jpg_960x960.jpg</picture>
+                <name>Мягкий силиконовый набор защиты от пыли для MacBook 2022 Air13.6 M2 A2681 Pro 14 16 дюймов M1 Pro /M1 max A2442 A2485 A2338A2337</name>
+                <ios_url>aliexpress://product/detail?productId=1005004784646948&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004784646948&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003478434091">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>75</price>
+                <oldprice>109</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200001394</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Hda0db26cf99e480998b0b5cbc2385194c/stub.jpg_960x960.jpg</picture>
+                <name>3/2/1 шт., миниатюрные 1:12 мини-скрипка кукольного домика</name>
+                <ios_url>aliexpress://product/detail?productId=1005003478434091&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003478434091&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004892072450">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>102</price>
+                <oldprice>157</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200003745</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S693c60a3329442d9ada8e36668736a87n/stub.jpg_960x960.jpg</picture>
+                <name>Электрическая грелка для домашних животных, собак, кошек, зимний греющий коврик, аксессуары для животных, грелка для домашних животных</name>
+                <ios_url>aliexpress://product/detail?productId=1005004892072450&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004892072450&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005002993059082">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>56</price>
+                <oldprice>94</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>100007201</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Hf84fe705224f4f46a28ac36391ca99370/stub.jpg_960x960.jpg</picture>
+                <name>5 шт./лот, рыболовный поплавок из пены, 1-60 г / набор (5 шт.)</name>
+                <ios_url>aliexpress://product/detail?productId=1005002993059082&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005002993059082&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003483939820">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>377</price>
+                <oldprice>628</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>4204</categoryId>
+                <picture>https://ae01.alicdn.com/kf/He062c85513544578aba885cc744cf705T/stub.jpg_960x960.jpg</picture>
+                <name>Набор шлифовальных лент, комплект из 10 сменных насадок с зернистостью 60-1000 для угловой шлифовальной машины, мини-электрической ленточной машинки</name>
+                <ios_url>aliexpress://product/detail?productId=1005003483939820&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003483939820&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004919845419">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>399</price>
+                <oldprice>800</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000127</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S465f31950009440da8d26d48c99bc205I/stub.jpg_960x960.jpg</picture>
+                <name>Ремешок кожаный для Panerai, мужской сменный Браслет из воловьей кожи для наручных часов, 20 мм 22 мм 24 мм</name>
+                <ios_url>aliexpress://product/detail?productId=1005004919845419&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004919845419&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004281419295">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>123</price>
+                <oldprice>205</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>2049</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Sd6dec89519724069a153b55a0c3bebad5/stub.jpg_960x960.jpg</picture>
+                <name>Электрические насосы, надувной лодочный насос, винтовой шланг, адаптер, рыболовный каяк, аксессуары, воздушные клапаны</name>
+                <ios_url>aliexpress://product/detail?productId=1005004281419295&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004281419295&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003624056642">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>1354</price>
+                <oldprice>2708</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200037143</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Sbb928f175a7d4e21af92a5cf40814f6cf/stub.jpg_960x960.jpg</picture>
+                <name>Мужские чехлы для одежды, сумки для хранения, вешалка для пыли, органайзер, бытовые товары, портативные дорожные костюмы, пальто, аксессуары для</name>
+                <ios_url>aliexpress://product/detail?productId=1005003624056642&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003624056642&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003725500602">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>132</price>
+                <oldprice>170</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>390406</categoryId>
+                <picture>https://ae01.alicdn.com/kf/H4cec63d273434494bace669dc48ded61F/stub.jpg_960x960.jpg</picture>
+                <name>Светодиодная лампа 220 В для здорового образа жизни E27 E14 MR16 GU10, светодиодсветильник лампа для дезинфекции, бактерицидная лампа</name>
+                <ios_url>aliexpress://product/detail?productId=1005003725500602&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003725500602&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004116338477">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>167</price>
+                <oldprice>235</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>2621</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S9632637f902d4e94b05fffb64e8e9bd0C/stub.jpg_960x960.jpg</picture>
+                <name>Брелок с аниме Наруто Kunai Shuriken Konoha Ninja, брелок для ключей от машины, сумки, рюкзака, безделушки, аксессуары для ключей, ювелирные изделия и</name>
+                <ios_url>aliexpress://product/detail?productId=1005004116338477&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004116338477&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005005122618405">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>88</price>
+                <oldprice>177</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200003954</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S97ffbff19f194b75b60724373f588e4b4/stub.jpg_960x960.jpg</picture>
+                <name>Самоклеящаяся лента для штанов, нейлоновая клейкая, 1/3/5/8 м</name>
+                <ios_url>aliexpress://product/detail?productId=1005005122618405&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005005122618405&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004491005545">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>83</price>
+                <oldprice>125</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>154101</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Sebadeb38242e429fb352ae71f0ce06fcJ/stub.jpg_960x960.jpg</picture>
+                <name>Утолщенный Вакуумный пакет, прозрачный герметичный пакет для хранения одежды с защитой от трещин, герметичный компрессионный дорожный компактный</name>
+                <ios_url>aliexpress://product/detail?productId=1005004491005545&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004491005545&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004971256380">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>409</price>
+                <oldprice>621</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>380230</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Se2964c353bf04bf393262b577f1007c85/stub.jpg_960x960.jpg</picture>
+                <name>Чехол для Huawei Nova Y70, Магнитный кошелек, флип-чехол для Huawei Nova Y70, чехол с отделением для карт и фото, роскошные кожаные чехлы для</name>
+                <ios_url>aliexpress://product/detail?productId=1005004971256380&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004971256380&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="33024664597">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>484</price>
+                <oldprice>550</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>32813</categoryId>
+                <picture>https://ae01.alicdn.com/kf/HTB1OpjUbizxK1RjSspjq6AS.pXaP/stub.jpg_960x960.jpg</picture>
+                <name>8/8/16 град., стразы горячей фиксации, 2088 огранки Жёсткий светильник</name>
+                <ios_url>aliexpress://product/detail?productId=33024664597&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=33024664597&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003956727339">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>885</price>
+                <oldprice>1230</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000783</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Sf7529da2826f47269f72bd10aee14fe0w/stub.jpg_960x960.jpg</picture>
+                <name>Футболка мужская Осенняя хлопковая с длинным рукавом и воротником Генри</name>
+                <ios_url>aliexpress://product/detail?productId=1005003956727339&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003956727339&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="32828196579">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>87</price>
+                <oldprice>98</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>400103</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Hf06f5e6b42ed40fea5f65b3cdaed97d4e/stub.jpg_960x960.jpg</picture>
+                <name>5S балансирующая TZT, 4,2 В, 18650, 21 В</name>
+                <ios_url>aliexpress://product/detail?productId=32828196579&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=32828196579&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004416764564">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>72</price>
+                <oldprice>121</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>100001738</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Saf56beac8d124de198d0604b5d6f9205F/stub.jpg_960x960.jpg</picture>
+                <name>1-10 шт. Волшебная заводная Летающая бабочка в книге, резиновая повязка, Волшебная летающая игрушка, великолепный подарок, подарки вечерние НКИ</name>
+                <ios_url>aliexpress://product/detail?productId=1005004416764564&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004416764564&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004959976167">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>109</price>
+                <oldprice>223</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000168</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S707bef73f3af413db3a01b64126e8d07f/stub.jpg_960x960.jpg</picture>
+                <name>Корейские простые темпераментные геометрические серьги-подвески в форме сердца для женщин и девушек модные ювелирные изделия Аксессуары Рождественский</name>
+                <ios_url>aliexpress://product/detail?productId=1005004959976167&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004959976167&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004972151593">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>64</price>
+                <oldprice>130</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000168</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S6c6809c3507e40c7823866118a5a308dn/stub.jpg_960x960.jpg</picture>
+                <name>Латы винтажный комплект жемчужных серег металлический золотой цвет трендовые длинные серьги сердце бабочка серьги-кольца геометрические модные изделия</name>
+                <ios_url>aliexpress://product/detail?productId=1005004972151593&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004972151593&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="32997314284">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>155</price>
+                <oldprice>172</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>5001</categoryId>
+                <picture>https://ae01.alicdn.com/kf/HTB1Tx2OOQzoK1RjSZFlq6yi4VXah/stub.jpg_960x960.jpg</picture>
+                <name>2 шт./лот, ультратонкие водонепроницаемые динамики, 4 Ом, 3 Вт, диаметр 50 мм, 5 см, толщина 12,5 мм / набор (2 шт.)</name>
+                <ios_url>aliexpress://product/detail?productId=32997314284&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=32997314284&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004684731148">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>294</price>
+                <oldprice>588</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>32701</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Sc01d926a8e134cf892a8b9abdb0a1410Y/stub.jpg_960x960.jpg</picture>
+                <name>Детская фетровая шляпа с бантом, на Возраст 3-10 лет</name>
+                <ios_url>aliexpress://product/detail?productId=1005004684731148&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004684731148&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005001505006471">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>2901</price>
+                <oldprice>2901</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200003984</categoryId>
+                <picture>https://ae01.alicdn.com/kf/H9563997744574e6a9f6fac4c4acf2101O/stub.jpg_960x960.jpg</picture>
+                <name>Игрушечное тело Yuri Bungo бродячие собаки, плюшевая игрушка Федор достоевски 20 см, мягкая милая игрушка для косплея, новый подарок для фаната</name>
+                <ios_url>aliexpress://product/detail?productId=1005001505006471&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005001505006471&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="32994270382">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>92</price>
+                <oldprice>101</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200001724</categoryId>
+                <picture>https://ae01.alicdn.com/kf/He87ec4ffb87a4758ac25e82a32a1bce4o/stub.jpg_960x960.jpg</picture>
+                <name>50-100 шт. светодиодные бусины холодный белый 3014 4014 5014 JUFEI UNI Сеул LG GUOXIN 0,5 Вт 0,8 Вт 1 Вт 3 в 6 в ма для телевизора/подсветки высокой</name>
+                <ios_url>aliexpress://product/detail?productId=32994270382&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=32994270382&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003287974591">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>1016</price>
+                <oldprice>1588</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000791</categoryId>
+                <picture>https://ae01.alicdn.com/kf/H7752d7d9a31948cc8413e2aa7f0b579fs/stub.jpg_960x960.jpg</picture>
+                <name>Женская футболка с круглым вырезом и длинным 2022</name>
+                <ios_url>aliexpress://product/detail?productId=1005003287974591&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003287974591&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004525442169">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>2275</price>
+                <oldprice>3251</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200388155</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S8a5befc85c8f44918d486b95a18931d63/stub.jpg_960x960.jpg</picture>
+                <name>Новинка фигурки аниме juютсу касин итадор Юджи годзо Сатору Ограниченная Коллекция карточка импортные игрушки подарки на день рождения для детей</name>
+                <ios_url>aliexpress://product/detail?productId=1005004525442169&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004525442169&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005001287217519">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>330</price>
+                <oldprice>413</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200309142</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S57b00aea0fbc417bbae94e649c5bb1518/stub.jpg_960x960.jpg</picture>
+                <name>Разъем Ugreen для динамика 6,35 мм, штекер 3,5 мм, гнездо 3,5 мм, аудиоразъем 6,35, кабель Aux для динамика</name>
+                <ios_url>aliexpress://product/detail?productId=1005001287217519&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005001287217519&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004664603889">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>1953</price>
+                <oldprice>2959</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>154104</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Sb6f18f50d83a43bdac864421a4904001A/stub.jpg_960x960.jpg</picture>
+                <name>Съемная металлическая подставка для хранения овощей и фруктов</name>
+                <ios_url>aliexpress://product/detail?productId=1005004664603889&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004664603889&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005002027894266">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>149</price>
+                <oldprice>149</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>2621</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S56b07a949b0c4f6d90e285ee4247022cY/stub.jpg_960x960.jpg</picture>
+                <name>1/6 шт., сандалии для обувь для куклы Барби</name>
+                <ios_url>aliexpress://product/detail?productId=1005002027894266&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005002027894266&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003960619314">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>143</price>
+                <oldprice>252</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200107143</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S5a2d8a2c7e2b4d0d99ff3b71ae1794faW/stub.jpg_960x960.jpg</picture>
+                <name>Фитиль для свечей, хлопковый, 3 м, 2 мм, 3 мм, 4 мм, 5 мм, 6 мм, 8 мм</name>
+                <ios_url>aliexpress://product/detail?productId=1005003960619314&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003960619314&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005002789665902">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>3339</price>
+                <oldprice>6680</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>100005542</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Hd6124854b69744059da7b06bd9ce29a56/stub.jpg_960x960.jpg</picture>
+                <name>Катушка для заброса приманки, 7,2: 1, 8,1: 1, макс. тяга 18 фунтов</name>
+                <ios_url>aliexpress://product/detail?productId=1005002789665902&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005002789665902&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="4000383320185">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>196</price>
+                <oldprice>213</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000775</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Hf79fd655580c455ca6140811bce4a3edh/stub.jpg_960x960.jpg</picture>
+                <name>Ключ для мотоцикла Кавасаки, ниндзя, 2016</name>
+                <ios_url>aliexpress://product/detail?productId=4000383320185&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=4000383320185&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004094803484">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>9537</price>
+                <oldprice>13625</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>5090301</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Se3aa10e783884136a0e847dbc7a7cbd5E/stub.jpg_960x960.jpg</picture>
+                <name>Глобальная версия Xiaomi Redmi 10C смартфон, 4 ГБ 64 ГБ/128 ГБ, Восьмиядерный, 6,71 дюймов, камера 50 Мп, 5000 мАч, 18 Вт</name>
+                <ios_url>aliexpress://product/detail?productId=1005004094803484&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004094803484&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003786940447">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>170</price>
+                <oldprice>363</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>100003255</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S609f5c41782d4bc6b8392b1f1d11b6e1z/stub.jpg_960x960.jpg</picture>
+                <name>14 метров оболочки для колбасок, оболочка для ветчины, оболочка для колбасы, оболочка для хот-догов, кухонные инструменты</name>
+                <ios_url>aliexpress://product/detail?productId=1005003786940447&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003786940447&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004770228464">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>165</price>
+                <oldprice>165</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>141909</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S2f99c857b92b468bb04033f2fea3514fC/stub.jpg_960x960.jpg</picture>
+                <name>Реле времени включения питания и задержки, потенциальное расстояние, маленький 14-контактный 8-контактный переключатель таймера DC12V24vAC220v, 1S 3S</name>
+                <ios_url>aliexpress://product/detail?productId=1005004770228464&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004770228464&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="32666356439">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>35</price>
+                <oldprice>38</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>400103</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Hf8571fbb5f2a4d50914508db025ea3e9e/stub.jpg_960x960.jpg</picture>
+                <name>Беспроводной Инфракрасный пульт ДУ для Arduino</name>
+                <ios_url>aliexpress://product/detail?productId=32666356439&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=32666356439&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004421328732">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>184</price>
+                <oldprice>246</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>380230</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Sfff603e93108495a8f081ce2f18794f0D/stub.jpg_960x960.jpg</picture>
+                <name>Чехол для телефона Samsung Galaxy A53 A73 A33 A52 A52S A72 A32 4G 5G A51 A71 A 53 52 32</name>
+                <ios_url>aliexpress://product/detail?productId=1005004421328732&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004421328732&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005002541607952">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>2279</price>
+                <oldprice>4559</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>152401</categoryId>
+                <picture>https://ae01.alicdn.com/kf/H577477e65b81442e8e4389cc135acfd12/stub.jpg_960x960.jpg</picture>
+                <name>Женский рюкзак в готическом стиле</name>
+                <ios_url>aliexpress://product/detail?productId=1005002541607952&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005002541607952&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005001721581403">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>1949</price>
+                <oldprice>3898</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000279</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Sa3e34cfa785a40a2820f36a43965cc4bh/stub.jpg_960x960.jpg</picture>
+                <name>Направляющие на крышу, наконечник стойки, сменная крышка, 4 шт. для Toyota Land Cruiser LC100 FJ100 1998 -2001 2002 2003 2004 2005 2006 2007</name>
+                <ios_url>aliexpress://product/detail?productId=1005001721581403&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005001721581403&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="32824040884">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>101</price>
+                <oldprice>150</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>100005544</categoryId>
+                <picture>https://ae01.alicdn.com/kf/HTB1qmFAaDjxK1Rjy0Fnq6yBaFXal/stub.jpg_960x960.jpg</picture>
+                <name>2 шт./лот, рыболовная приманка в виде кальмара, 10 см, 8 г / набор (2 шт.)</name>
+                <ios_url>aliexpress://product/detail?productId=32824040884&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=32824040884&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004574098439">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>383</price>
+                <oldprice>609</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>152409</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S321b01a14fe248108b169e618000615c4/stub.jpg_960x960.jpg</picture>
+                <name>Женская сумка, чехол для бритвы, Защитная сумка для Braun Series 3, 3040s 3010BT 3020 3030s 300s Series 5 5030s 5147s</name>
+                <ios_url>aliexpress://product/detail?productId=1005004574098439&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004574098439&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004039083209">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>43</price>
+                <oldprice>437</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>100003885</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S711f75e267d64b4ab12b9cce08ca63e6E/stub.jpg_960x960.jpg</picture>
+                <name>1 шт. пустые алюминиевые бутылки с алюминиевыми колпачками с винтовой крышкой, многоразовая бутылка 30 мл, 50 мл, 100 мл, 120 мл, 150 мл, 250 мл</name>
+                <ios_url>aliexpress://product/detail?productId=1005004039083209&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004039083209&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="33045144932">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>2137</price>
+                <oldprice>4190</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>39050502</categoryId>
+                <picture>https://ae01.alicdn.com/kf/H58b4205796c44217859dcc8b9a48074ea/stub.jpg_960x960.jpg</picture>
+                <name>Светильник Потолочный LED-лампа для освещения коридоров в современном светильник</name>
+                <ios_url>aliexpress://product/detail?productId=33045144932&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=33045144932&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005002461462832">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>828</price>
+                <oldprice>1657</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200001814</categoryId>
+                <picture>https://ae01.alicdn.com/kf/H7c2e0fcd74ab4ebe99c8e26438cfe112p/stub.jpg_960x960.jpg</picture>
+                <name>Пижамный комплект мужской с коротким рукавом, Трикотажный Хлопковый пижамный комплект с забавным принтом динозавра, одежда для сна, пижамный комплект</name>
+                <ios_url>aliexpress://product/detail?productId=1005002461462832&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005002461462832&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004816352649">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>206</price>
+                <oldprice>413</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>100007322</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S49a1db6802b74d518d9cb4fca623c32bT/stub.jpg_960x960.jpg</picture>
+                <name>Женская модная простая симпатичная синяя брошь-бабочка для женщин Роскошная Черная эмалированная брошь из сплава в виде животного булавки</name>
+                <ios_url>aliexpress://product/detail?productId=1005004816352649&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004816352649&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004505546009">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>612</price>
+                <oldprice>729</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200001051</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S8f57c9a9ebf440afba435a4b62ed126eC/stub.jpg_960x960.jpg</picture>
+                <name>Двухцветная светодиодная лента SMD2835 200D/m 5B10C, 3 метра, гибкая светильник вая лента высокой яркости для освещения фотопанели и т. д</name>
+                <ios_url>aliexpress://product/detail?productId=1005004505546009&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004505546009&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004030814552">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>334</price>
+                <oldprice>471</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200003886</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S1541de73d814412da68637885c2916f2s/stub.jpg_960x960.jpg</picture>
+                <name>Creality 3 шт. концевой выключатель для RAMPS 1,4 RepRap аксессуары для 3D принтера Ender 3/Ender 3 Pro/Ender 3 V2/Ender 5/CR-10 10S/S4/S5</name>
+                <ios_url>aliexpress://product/detail?productId=1005004030814552&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004030814552&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005005013082238">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>1657</price>
+                <oldprice>2368</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000226</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Sa1d0ad8163d046a1a5eb131a66a27716F/stub.jpg_960x960.jpg</picture>
+                <name>2 шт., задние фары для Audi Q5 2,0 T 2009 2010 2012 2013 2014 2015 2016 8R0945096 8R0945095</name>
+                <ios_url>aliexpress://product/detail?productId=1005005013082238&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005005013082238&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003681129577">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>986</price>
+                <oldprice>1315</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000814</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Hdb81a461858a4b3c885106763c4f2285g/stub.jpg_960x960.jpg</picture>
+                <name>Хромированная отделка ветрового стекла мотоцикла для Harley Electra Glide Street Glide Touring FLHT FLHTC FLHTCU FLHX 1996-2013</name>
+                <ios_url>aliexpress://product/detail?productId=1005003681129577&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003681129577&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004594711728">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>116</price>
+                <oldprice>234</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200200150</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S607b99aaf49844d1b991ef92d820e09dO/stub.jpg_960x960.jpg</picture>
+                <name>1 шт., силиконовая Прорезыватель для зубов для новорожденных</name>
+                <ios_url>aliexpress://product/detail?productId=1005004594711728&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004594711728&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004882581224">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>373</price>
+                <oldprice>373</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>711002</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S5dd13b4c73944a9b8e3246fadf2086c8y/stub.jpg_960x960.jpg</picture>
+                <name>Процессор Intel Core 2 Duo T9900 T9600 T9550 T9400 Socket P и SAMSUNG DDR2 2 Гб PC2 6400S ОЗУ для ноутбука 2G 800 МГц память для ноутбука</name>
+                <ios_url>aliexpress://product/detail?productId=1005004882581224&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004882581224&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003698769977">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>161</price>
+                <oldprice>343</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>14190401</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S810f8be07b1244578f392211036cd21d5/stub.jpg_960x960.jpg</picture>
+                <name>Кабель HDMI штекер, 0,3/0,5/1 м</name>
+                <ios_url>aliexpress://product/detail?productId=1005003698769977&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003698769977&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="32868393926">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>134</price>
+                <oldprice>174</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200001407</categoryId>
+                <picture>https://ae01.alicdn.com/kf/HTB1oiuhpH9YBuNjy0Fgq6AxcXXat/stub.jpg_960x960.jpg</picture>
+                <name>Аккумулятор литий-полимерный 3,7 В, 150 мАч, 3,7 В, 150 мАч</name>
+                <ios_url>aliexpress://product/detail?productId=32868393926&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=32868393926&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004034611810">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>198</price>
+                <oldprice>495</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200001189</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S349c2448faa84d6786cb025bfe6695f9S/stub.jpg_960x960.jpg</picture>
+                <name>Набор мягких кистей для макияжа XJING, 8 шт., для тональной основы, для теней для век, косметические кисти для пудры, румян, косметические инструменты</name>
+                <ios_url>aliexpress://product/detail?productId=1005004034611810&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004034611810&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005002817635402">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>223</price>
+                <oldprice>248</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000236</categoryId>
+                <picture>https://ae01.alicdn.com/kf/H351a4ae845a34e36b16c83b6d0038594L/stub.jpg_960x960.jpg</picture>
+                <name>Ремешок для автомобильных ключей, держатель для ID-карт, для сотового телефона, на шею, для BMW E46, F30, E90, E60, F20, F10, E36, E39, E87, G30</name>
+                <ios_url>aliexpress://product/detail?productId=1005002817635402&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005002817635402&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004226396770">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>92</price>
+                <oldprice>123</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>201375514</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S49dbae3ab6d841f4b702c2fc44a51fb3w/stub.jpg_960x960.jpg</picture>
+                <name>Металлическая крышка для объектива Samsung S21 S22 Plus S21 FE, защитная крышка для объектива камеры Samsung Galaxy S23 Plus, защитный чехол для</name>
+                <ios_url>aliexpress://product/detail?productId=1005004226396770&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004226396770&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004334008308">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>65</price>
+                <oldprice>131</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>429</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S4136c23bbf754bd89c91bc8a15bc1cf0K/stub.jpg_960x960.jpg</picture>
+                <name>Натуральные петушиные перья для рукоделия, 10-15 см</name>
+                <ios_url>aliexpress://product/detail?productId=1005004334008308&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004334008308&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005005023483867">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>78</price>
+                <oldprice>82</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>380230</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S9763d0e654ff40818f1cec54f1d0715dW/stub.jpg_960x960.jpg</picture>
+                <name>Gasbag мягкий прозрачный силиконовый чехол с отделением для карт для OPPO A74 A57 A54S A15 A16 A77 Realme 9 Pro + 9i 8i 8 Pro C30 C31 C21Y</name>
+                <ios_url>aliexpress://product/detail?productId=1005005023483867&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005005023483867&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004781677764">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>373</price>
+                <oldprice>746</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>63705</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S9fe285bb165049b6ac5f5fcaedf6cbd79/stub.jpg_960x960.jpg</picture>
+                <name>Сменная повязка на голову для HyperX Cloud I/ II, Core,Silver,Alpha,Pro,X,Stinger, Flight, Flight, Alpha, гарнитура для геймеров</name>
+                <ios_url>aliexpress://product/detail?productId=1005004781677764&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004781677764&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004940219408">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>363</price>
+                <oldprice>519</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200001619</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S716c1151f4554dc1913f30f01e3079ceZ/stub.jpg_960x960.jpg</picture>
+                <name>Новый чехол для наушников Huawei Freebuds SE, наклейка с изображением фруктов и кристаллов, мягкая оболочка, защитный чехол для наушников Huawei SE</name>
+                <ios_url>aliexpress://product/detail?productId=1005004940219408&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004940219408&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004941643840">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>1514</price>
+                <oldprice>3028</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>100000055</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Sfa5c815b7db54d658bc900371e0b3550w/stub.jpg_960x960.jpg</picture>
+                <name>Оригинальная 300 мл специальная жидкость для очистки пола для Dreame L10s Ultra аксессуары</name>
+                <ios_url>aliexpress://product/detail?productId=1005004941643840&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004941643840&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004019818576">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>90</price>
+                <oldprice>159</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000168</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S10080c436b684a12b7f56c0aec01207f9/stub.jpg_960x960.jpg</picture>
+                <name>Роскошные серебряные серьги с синим камнем, Женские Модные металлические инкрустированные белым цирконом, свадебные Висячие серьги для женщин, изделия</name>
+                <ios_url>aliexpress://product/detail?productId=1005004019818576&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004019818576&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004502948092">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>129</price>
+                <oldprice>129</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200001202</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S243e1ed340ee4ee0b2b68d09761f43efD/stub.jpeg_960x960.jpeg</picture>
+                <name>Щетка для лица, силиконовая глубокая кожа, средство для ухода за кожей, мягкий скраб, легкое Очищение головы</name>
+                <ios_url>aliexpress://product/detail?productId=1005004502948092&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004502948092&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005002809841673">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>238</price>
+                <oldprice>331</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>100005735</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S32ded7870768498889864f5420a4d0d2P/stub.jpg_960x960.jpg</picture>
+                <name>Термонаклейка на заплатка с текстом, с вышивкой, 10 х4 см</name>
+                <ios_url>aliexpress://product/detail?productId=1005002809841673&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005002809841673&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004864631324">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>38</price>
+                <oldprice>79</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200355150</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S76504331727643678af95be8e57fc399U/stub.jpg_960x960.jpg</picture>
+                <name>Практичная корзинка для чая заварки, портативное ситечко для чая, антидеформирующий ровный дренажный фильтр для чая из мелкой сетки</name>
+                <ios_url>aliexpress://product/detail?productId=1005004864631324&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004864631324&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003467153448">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>74</price>
+                <oldprice>159</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>100003887</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Hef6373e50c8940988fa87ad56f3ee06er/stub.jpg_960x960.jpg</picture>
+                <name>Новая настенная стандартная коробка с отверстием для пульта дистанционного управления для телевизора, крепление для хранения телефона, настенный для</name>
+                <ios_url>aliexpress://product/detail?productId=1005003467153448&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003467153448&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005001311291123">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>391</price>
+                <oldprice>521</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200002099</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Se0a7fbd1d1544213a6eeb439b1490fccs/stub.jpg_960x960.jpg</picture>
+                <name>Разъем питания для Lenovo Z500 Z400 P500 Ideapad</name>
+                <ios_url>aliexpress://product/detail?productId=1005001311291123&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005001311291123&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004694602673">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>337</price>
+                <oldprice>519</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>31110</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S4f76d799e47d4622a80c50057415248fK/stub.jpg_960x960.jpg</picture>
+                <name>Платье с коротким рукавом и бантом для девочек, на возраст 1-3 года</name>
+                <ios_url>aliexpress://product/detail?productId=1005004694602673&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004694602673&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="32816508230">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>52</price>
+                <oldprice>52</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>400101</categoryId>
+                <picture>https://ae01.alicdn.com/kf/HTB1klMSRFXXXXa.XXXXq6xXFXXXY/stub.jpg_960x960.jpg</picture>
+                <name>100 шт., 5730 диоды 5630/5730-CW/WW 0,5 Вт-150 мА, 50-55 лм, 6500 К, белый светильник, 5730, 5630 светодиодный, 3,2-3,4 В</name>
+                <ios_url>aliexpress://product/detail?productId=32816508230&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=32816508230&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="4000592935660">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>688</price>
+                <oldprice>1129</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200001014</categoryId>
+                <picture>https://ae01.alicdn.com/kf/H01cc03d73aa44f769db551506731a2ceG/stub.png_960x960.png</picture>
+                <name>Качественная женская обувь для танцев на среднем каблуке кожаные женские балетные туфли для девушек обувь для танца живота йоги обувь для учителей</name>
+                <ios_url>aliexpress://product/detail?productId=4000592935660&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=4000592935660&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004753286745">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>123</price>
+                <oldprice>165</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>201301702</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Scbab53c272ce4a6ca8f11e29983045feY/stub.jpg_960x960.jpg</picture>
+                <name>Заколка-бант однотонная для девочек, 10 шт./компл., 1,9 дюйма / набор (10 шт.)</name>
+                <ios_url>aliexpress://product/detail?productId=1005004753286745&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004753286745&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003548240546">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>2281</price>
+                <oldprice>2281</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>380110</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Hb01cc847e4204944bc1cfdad69b7ceedi/stub.jpg_960x960.jpg</picture>
+                <name>Для ноутбуков MSI GE75 GP75 GL75 MS-17E2 17E5 17E 7 экран задняя крышка передняя панель петля</name>
+                <ios_url>aliexpress://product/detail?productId=1005003548240546&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003548240546&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004570127467">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>68</price>
+                <oldprice>136</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>711005</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Se6fd21c788b6474285840371cf3671e7o/stub.jpg_960x960.jpg</picture>
+                <name>Многофункциональный металлический флеш-накопитель USB 2,0 в виде кошачьей лапы, USB флеш-накопитель 32 ГБ, 64 ГБ, 128 ГБ, USB флеш-карта, флешка,</name>
+                <ios_url>aliexpress://product/detail?productId=1005004570127467&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004570127467&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004839568299">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>49</price>
+                <oldprice>99</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>152409</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S841d4ae15e0746edabd89159c968af4cl/stub.jpg_960x960.jpg</picture>
+                <name>1 шт., металлический съемный карабин для кожаных сумок</name>
+                <ios_url>aliexpress://product/detail?productId=1005004839568299&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004839568299&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004149587727">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>150</price>
+                <oldprice>301</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000181</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Se91919aa4aaf407a8bbc73a57b79b23f2/stub.jpg_960x960.jpg</picture>
+                <name>5 пар круглых магнитных застежек бусины Стразы шармы Подвеска DIY пара магнитных застежек для ювелирного браслета 14/16 мм / набор (5 шт.)</name>
+                <ios_url>aliexpress://product/detail?productId=1005004149587727&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004149587727&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003660358896">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>1020</price>
+                <oldprice>1020</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>31110</categoryId>
+                <picture>https://ae01.alicdn.com/kf/H17906e2b44ed4b85919aab9eabd92d815/stub.jpg_960x960.jpg</picture>
+                <name>2021 вельветовое платье для девочек</name>
+                <ios_url>aliexpress://product/detail?productId=1005003660358896&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003660358896&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003191896563">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>182</price>
+                <oldprice>304</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000181</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Ha9d7aa3fc7ce4f79854e23b50c17661b5/stub.jpg_960x960.jpg</picture>
+                <name>Бусина из бисера, позолоченная, 12/14 мм, 10 шт., колпачки-держатели / набор (10 шт.)</name>
+                <ios_url>aliexpress://product/detail?productId=1005003191896563&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003191896563&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005005030753590">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>2189</price>
+                <oldprice>3649</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000347</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S53395a67fe3d43d493dacf50ed157451C/stub.jpg_960x960.jpg</picture>
+                <name>Весеннее Новое милое Цветочное платье с длинным рукавом, Повседневное платье средней длины XYF120504</name>
+                <ios_url>aliexpress://product/detail?productId=1005005030753590&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005005030753590&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="33013660928">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>129</price>
+                <oldprice>137</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>14191104</categoryId>
+                <picture>https://ae01.alicdn.com/kf/HTB1MPrfVlLoK1RjSZFuq6xn0XXa7/stub.jpg_960x960.jpg</picture>
+                <name>Модуль DC повышающего усилитель конвертера питания MT3608, макс. выход 28 В, 2 А для arduino / набор (5 шт.)</name>
+                <ios_url>aliexpress://product/detail?productId=33013660928&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=33013660928&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="4000040804146">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>1128</price>
+                <oldprice>1881</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200001868</categoryId>
+                <picture>https://ae01.alicdn.com/kf/H29fd09af2d0848a39b4ac3b7ec36832f3/stub.jpg_960x960.jpg</picture>
+                <name>6 шт./лот, мужские трусы-боксеры из бамбука / набор (6 шт.)</name>
+                <ios_url>aliexpress://product/detail?productId=4000040804146&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=4000040804146&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004929456499">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>729</price>
+                <oldprice>1658</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000605</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S4fedfb13959c4bf198ddb701edcb37dbc/stub.jpg_960x960.jpg</picture>
+                <name>Новинка 2023, одежда для рыбалки на открытом воздухе, летняя дышащая одежда для велоспорта с длинным рукавом, Мужская трикотажная одежда для активного</name>
+                <ios_url>aliexpress://product/detail?productId=1005004929456499&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004929456499&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1000001688995">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>82</price>
+                <oldprice>124</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>141908</categoryId>
+                <picture>https://ae01.alicdn.com/kf/UT8h.vLXAxXXXagOFbXd/stub.jpg_960x960.jpg</picture>
+                <name>Бесплатная Доставка Переменный конденсатор из ПВХ/443DF6 Длинная нога/10 футов/переменный конденсатор типа 270/электронный компонент</name>
+                <ios_url>aliexpress://product/detail?productId=1000001688995&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1000001688995&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003522779401">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>165</price>
+                <oldprice>306</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>200000162</categoryId>
+                <picture>https://ae01.alicdn.com/kf/H40e3191f90ee4f7cbd670da584c2e1003/stub.jpg_960x960.jpg</picture>
+                <name>Ожерелье женское в форме капли с блестящим фианитом</name>
+                <ios_url>aliexpress://product/detail?productId=1005003522779401&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003522779401&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005003894332427">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>340</price>
+                <oldprice>680</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>100001826</categoryId>
+                <picture>https://ae01.alicdn.com/kf/S0b4089acd6d04d88979616dd093dd1f2L/stub.jpg_960x960.jpg</picture>
+                <name>Реалистичный искусственный цветок магнолии EVA, искусственный цветок для гостиной, столовой</name>
+                <ios_url>aliexpress://product/detail?productId=1005003894332427&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005003894332427&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+            <offer id="1005004883935170">
+                <url>https://trk.mail.ru/c/omq3w9?mt_sub2={{campaign_id}}&amp;mt_sub3={{banner_id}}&amp;mt_sub4={{search_phrase}}&amp;mt_campaign={{campaign_id}}&amp;mt_creative={{banner_id}}</url>
+                <price>123</price>
+                <oldprice>189</oldprice>
+                <currencyId>RUB</currencyId>
+                <categoryId>100000433</categoryId>
+                <picture>https://ae01.alicdn.com/kf/Sa992a5d642bc4d9798504812b8a3357bi/stub.jpg_960x960.jpg</picture>
+                <name>Разъем зарядного устройства 12 В для мотоцикла, телефона, водонепроницаемая фоторозетка для автомобиля, лодки, трактора</name>
+                <ios_url>aliexpress://product/detail?productId=1005004883935170&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</ios_url>
+                <android_url>aliexpress://product/detail?productId=1005004883935170&amp;_randl_currency=RUB&amp;_randl_shipto=RU&amp;feed_id=364</android_url>
+                <bundle_id>ru.aliexpress.buyer</bundle_id>
+                <ios_app_store_id>436672029</ios_app_store_id>
+            </offer>
+        </offers>
+        </shop>
+    </yml_catalog>
